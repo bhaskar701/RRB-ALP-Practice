@@ -1,0 +1,1440 @@
+# RRB ALP Maths OCR extract
+
+Each block is one PDF page. OCR text is preserved as recognized; consult the page reference to check formulas, symbols, and any question that continues across pages.
+
+## PDF page 2
+
+### OCR text
+
+Gagan Pratap Maths Number System QI) What percentage of the numbers from I to 70, both included, have I or 7 in the unit's digit? A) 21 B) 14 C) 20 D) 1 C 26/11/2024 Right: 29.39% Wrong: 30.57% Q2) Which two numbers should be interchanged to make the given equation correct? 3 x (9 +7- 5) + (64 + 2) -22 + 7S -S x 82 (Note: Interchange should be done of the entire number and not individual digits of a given number.) A) 3 and 4 B) 2 and 4 c) 64 and 78 D) 7 and 5 CorrectAns: C 29/11/2024 Q3) The sum of three consecutive multiples of S is 2424, find the largest one. A) 824 B) C) D) 816 D 25/11/2024 Q4) Which of the following is a prime number? A) 437 B) 373 C) 161 D) 221 B 28/11/2024 Right: 31.10% Right: 32.55% Right: 34.37% Wrong: 13.02% Wrong: 24.59% Wrong: 35.77% 05) A fraction becomes - if 2 is added to the numerator and 5 is added to the denominator. It also becomes A if 2 is 2 3 subtracted from both the numerator and denominator. The positive difference between the denominator and the numerator of the fraction is: A) 4 B) 1 C) 3 D) 2 Correct Ans: D Q6) The sum of all prime numbers between 60 and 90 is: A) 610 B) 523 C) 373 D) 460 B 27/11/2024 28/11/2024 Right: 35.59% Right: 36.45% Wrong: 25.08% Wrong: 26.74% 07) If we add 1 to the numerator and subtract I from the denominator ofa given fraction, it becomes l. It becomes — if I is added to the denominator of the given fraction while the numerator is left unchanged. The positive difference of numerator and denominator of the fraction is: A) 3 B) 2 C) 5 D) 7 CorrectAns:B 28/11/2024 08) The value of(0.000001) 3 is: A) 0.1 B) 0.001 C) 0.01 D) 0.000001 CorrectAns: C 26/11/2024 09) The value of is: A) 25 B) 250 C) 625 D) 125 CorrectAns: D 28/11/2024 Right: 36.76% Right: 40.90% Right: 43.18% Wrong: 11.41% Wrong: 42.10% Wrong: 17.84% QIO) Which two numbers should be interchanged to make the given equation correct? 21 x 4+(84+7) x 2-15 x 5+42= 105 (Note: Interchange should be done of entire number and not individual digits of a given number.) A) 4 and 2 B) 84 and 42 c) 4 and 5 D) 7 and 21 Correct Ans: B 25/11/2024 Right: 43.46% Wrong: 16.62% QII) The sum of the first S prime numbers divided by 7 is equal to < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Number System
+Q1)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 29.39% Wrong: 30.57%
+Q2)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 31.10% Wrong: 13.02%
+Q3)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 32.55% Wrong: 24.59%
+Q4)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 34.37% Wrong: 35.77%
+Q5)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 35.59% Wrong: 25.08%
+Q6)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 36.45% Wrong: 26.74%
+Q7)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 36.76% Wrong: 11.41%
+Q8)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 40.90% Wrong: 42.10%
+Q9)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 43.18% Wrong: 17.84%
+Q10)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 43.46% Wrong: 16.62%
+Q11)
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 3
+
+### OCR text
+
+Gagan Pratap Maths A) 14 B) 13 C) 11 D) 10 Correct Ans: C 28/11/2024 Q12) The correct expression of 6.4646464646. .... .... in the fractional form is: 646 6464 640 Correct Ans: B A) B) C) D) 99 99 1000 100 27/11/2024 Right: 44.63% Right: 46.37% Wrong: 21.05% Wrong: 41.32% QI 3) The sum of five consecutive even numbers is 3720. The sum of the third largest and the largest even numbers among them is: A) 1392 B) 1488 C) 1492 D) 1388 Correct Ans: C 014) The value of X is: A) 64 B) 256 C) 16 D) 4 Correct Ans: D 28/11/2024 27/11/2024 28/11/2024 015) 016) QI 7) The value x 2 8000000 is: B) 16 C) 0.8 D) 1.6 Correct Ans: A Right: 48.81% Right: 48.90% Right: 51.81% Wrong: 14.44% Wrong: 22.58% Wrong: 28.35% The smallest natural number that must be multiplied with 1083 to make it a perfect square is: B) II C) 2 D) 4 Correct Ans: A 28/11/2024 Simplify the following expression: - 2.65 1.68 A) 6.94 B) 6.98 C) 6.99 D) 6.96 Correct Ans: B 26/11/2024 Q18) Simplify the following expression: - 2.64 1.68 A) 6.94 B) 6.56 C) 6.99 D) 6.96 Correct Ans: D 27/11/2024 Right: 54.73% Right: 61.45% Right: 61.64% Q19) The smallest four-digit number that is exactly divisible by each of 24, 40 and 56 is: A) B) 1680 C) 1170 D) 1260 Correct Ans: B 27/11/2024 Right: 62.20% Wrong: 18.33% Wrong: 10.89% Wrong: 12.03% Wrong: 24.18% Q20) What is the least positive number that can be added to 24SS so that it is completely divisible by 3, 4, 5 and 6? A) 34 B) 28 C) 32 D) 42 CorrectAns: C 28/11/2024 Q21) The simplified value of 0.002 x 0.5 is: A) 0.1 B) 0.01 C) 0.0001 D) 0.001 CorrectAns: D 26/11/2024 Q22) The total count of prime numbers less than 50 is: A) 17 B) 15 C) 14 D) 13 CorrectAns:B 25/11/2024 Download Test RanKlNG App Right: 62.37% Right: 62.62% Right: 63.33% Wrong: 20.14% Wrong: 32.51% Wrong: 26.72%
+
+### Original PDF text layer (cross-check)
+
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 44.63% Wrong: 21.05%
+Q12)
+Correct Ans: B
+A) B) C) D)
+27/11/2024 Right: 46.37% Wrong: 41.32%
+Q13)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 48.81% Wrong: 14.44%
+Q14)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 48.90% Wrong: 22.58%
+Q15)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 51.81% Wrong: 28.35%
+Q16)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 54.73% Wrong: 18.33%
+Q17)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 61.45% Wrong: 10.89%
+Q18)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 61.64% Wrong: 12.03%
+Q19)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 62.20% Wrong: 24.18%
+Q20)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 62.37% Wrong: 20.14%
+Q21)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 62.62% Wrong: 32.51%
+Q22)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 63.33% Wrong: 26.72%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 4
+
+### OCR text
+
+Gagan Pratap Maths Q23) Simplify the following expression: 9991 x 10009 A) 9999999 B) 91999919 C) 9999919 D) 99999919 Correct Ans: D 29/11/2024 Right: 63.46% Wrong: 18.82% Q24) The sum ofa two-digit number and the number obtained by reversing the digits is 99. Ifthe digits of the number differ by 5, then the two—digit number can be: A) 27 B) 83 c) 16 D) IS Correct Ans: A 26/11/2024 Q25) Which of the following numbers is divisible by II? A) 9248164 B) 7247564 C) 9246864 D) 8245964 Correct Ans: C 25/11/2024 Right: 64.17% Right: 64.89% Q26) From a 2.25-litre mango drink bottle, how many small glasses of 45 ml can be filled? A) 45 B) 50 C) 55 D) 40 Correct Ans: B 26/11/2024 Right: 66.50% 027) If (584)2= 3,41,056, then the value of square root of 34.1056 is: A) 0.0584 B) 0.000584 C) 0.584 D) 5.84 Correct Ans: D 26/11/2024 Right: 66.61% Q28) The smallest natural number that must be added to 1212 to make it a peafect square is: A) 27 B) 13 C) 18 D) 24 CorrectAns:B 29/11/2024 Right: 67.43% 029) Which of the following fractions is greater than and less than ? 3 1 9 Correct Ans: A 5 4 2 11 6 27/11/2024 Right: 68.05% Wrong: 12.18% Wrong: 15.66% Wrong: 17.83% Wrong: 18.60% Wrong: 17.58% Wrong: 17.80% (230) The sum of five consecutive numbers is 260. The sum of the first and the last numbers is: A) 96 B) 126 C) 116 D) 104 Correct Ans: D 28/11/2024 Right: 69.45% Wrong: 9.36% Q31) The sum of two numbers is 36. Five times one number is equal to 4 times the other. The greater of the two numbers is: A) 20 B) 12 C) 16 D) 15 Correct Ans: A 25/11/2024 .. ... is converted into a fraction, then the result is: 032) When 0.292929 . 1 29 2 29 Correct Ans: B 99 9 100 Q33) Simplify the following expression: 9992 x 10008 A) 91999964 B) 99999936 C) 9999964 D) 28/11/2024 9999936 Correct Ans: B 29/11/2024 Right: 71.18% Right: 71.67% Right: 72.23% Wrong: 12.42% Wrong: 17.91% Wrong: 17.39% 034) If 155 0.155 15.5 , then the value of K is: A) 1.55 B) 15.51 C) 0.0155 D) 155 CorrectAns:C < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Q23)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 63.46% Wrong: 18.82%
+Q24)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 64.17% Wrong: 12.18%
+Q25)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 64.89% Wrong: 15.66%
+Q26)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 66.50% Wrong: 17.83%
+Q27)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 66.61% Wrong: 18.60%
+Q28)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 67.43% Wrong: 17.58%
+Q29)
+Correct Ans: A
+A) B) C) D)
+27/11/2024 Right: 68.05% Wrong: 17.80%
+Q30)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 69.45% Wrong: 9.36%
+Q31)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 71.18% Wrong: 12.42%
+Q32)
+Correct Ans: B
+A) B) C) D)
+28/11/2024 Right: 71.67% Wrong: 17.91%
+Q33)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 72.23% Wrong: 17.39%
+Q34)
+A) B) C) D) Correct Ans: C
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 5
+
+### OCR text
+
+Gagan Pratap Maths 0 009 035) For what value of K is the equation = 0.1 tme? A) 9 B) 0.09 C) 0.9 D) 0.0009 Correct Ans: B Q36) Evaluate the given expressiom A) —6 B) —2 C) —4 D) —S Correct Ans: B 037) The value of (36) 6 is: A) B) 1 C) 2 D) (6)1L3 Correct Ans: D Q38) Evaluate the given expression. 23 x (—9)0 x 33 A) 81 B) 216 C) 36 D) 9 Correct Ans: B 29/11/2024 29/11/2024 29/11/2024 27/11/2024 25/11/2024 Q39) Ifthe number 64S4a6 is divisible by S, then find the least value of a. A) 0 B) 7 C) 3 D) 1 Correct Ans: D 28/11/2024 040) Simplify: 3889 + 12.952-47.95 A) 3853.892 B) 3853.982 C) 3854.002 D) 3854.012 Correct Ans: C 26/11/2024 Q41) Which of the following numbers is divisible by both 7 and II? A) 3014 B) 2534 C) 2684 D) 1771 Correct Ans: D 28/11/2024 Q42) Which of the following numbers is divisible by 4? A) 9876754 B) 8978624 C) 7864534 D) 9876342 Correct Ans: B 25/11/2024 043) Evaluate 297 x 303. A) 89991 B) 89091 C) 90991 D) 79991 Correct Ans: A Q 44 ) 045) 26/11/2024 5118 is divisible by: B) 7 C) S D) 5 Correct Ans: A 27/11/2024 Evaluate the given expressiom 13-12+4 x 2 B) 6 C) 7 D) 9 Correct Ans: C 26/11/2024 Download Test RanKlNG App Right: 72.48% Right: 73.48% Right: 74.45% Right: 75.73% Right: 77.31% Right: 80.90% Right: 80.95% Right: 81.43% Right: 86.50% Right: 87.71% Right: 88.70% Right: 89.23% Wrong: 14.84% Wrong: 16.73% Wrong: 18.77% Wrong: 12.52% Wrong: 9.51% Wrong: 10.97% Wrong: 9.02% Wrong: 10.45% Wrong: 6.80% Wrong: 6.62% Wrong: 7.64% Wrong: 7.19%
+
+### Original PDF text layer (cross-check)
+
+29/11/2024 Right: 72.48% Wrong: 14.84%
+Q35)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 73.48% Wrong: 16.73%
+Q36)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 74.45% Wrong: 18.77%
+Q37)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 75.73% Wrong: 12.52%
+Q38)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 77.31% Wrong: 9.51%
+Q39)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 80.90% Wrong: 10.97%
+Q40)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 80.95% Wrong: 9.02%
+Q41)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 81.43% Wrong: 10.45%
+Q42)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 86.50% Wrong: 6.80%
+Q43)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 87.71% Wrong: 6.62%
+Q44)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 88.70% Wrong: 7.64%
+Q45)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 89.23% Wrong: 7.19%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 6
+
+### OCR text
+
+Gagan Pratap Maths 046) Evaluate the given expressiom 42 +7 x 2 A) IO B) S C) 12 D) 3 Correct Ans: C Q47) Evaluate the given expressiom 16+8+4—2 x 3 A) IS B) 0 c) 6 D) 12 Correct Ans: D Q48) Evaluate the given expression. 12+18+3 A) 22 B) 12 C) 18 D) 10 C Q49) The square of 42 is: A) 1504 B) 1564 C) 1764 D) 1664 Correct Ans: C Q50) Evaluate the given expressiom A) 19 — 20 + 4 —1 B) 24 C) 19 D) 14 Correct Ans: D 29/11/2024 29/11/2024 25/11/2024 27/11/2024 29/11/2024 Right: 91.040/0 Right: 91.460/0 Right: 92.15% Right: 92.32% Right: 93.23% Wrong: 6.24% Wrong: 4.85% Wrong: 5.29% Wrong: 4.86% Wrong: 3.98% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Q46)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 91.04% Wrong: 6.24%
+Q47)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 91.46% Wrong: 4.85%
+Q48)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 92.15% Wrong: 5.29%
+Q49)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 92.32% Wrong: 4.86%
+Q50)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 93.23% Wrong: 3.98%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 7
+
+### OCR text
+
+Gagan Pratap Maths Average QI) A car covers four successive 3 km stretches at speeds of IO km/h, 20 km/h, 30 km/h and 60 knw/h, respectively. Its average speed over this distance is: A) 30km/h B) 15 knvh c) 20km/h D) 25 kmh Correct Ans: C 25/11/2024 Right: 35.30% Wrong: 35.71% Q2) The average marks of the students ofa class in a paaticular exam is SO. If 5 students whose average marks in that exam is 40 are excluded, the average marks of the remaining students will be 90. Find the number of students who wrote the A) 25 B) 20 C) 15 D) 35 CorrectAns:A 25/11/2024 Q3) The average of the first 25 multiples of 3 is: A) 39 B) 36 C) 30 D) 25 Correct Ans: A 25/11/2024 Right: 37.65% Right: 42.31% Wrong: 17.68% Wrong: 24.70% Q4) The average monthly salary ofa person for the months of January, Febmary, March and April is and that for the months of Febmmy, March, April and May is 0,500. If his salary' for the month of May is find his salmy for the month of Janumy. A) B) zS,OOO c) t2,500 D) O,OOO Correct Ans: A 25/11/2024 Right: 44.16% Wrong: 14.62% Q5) The average height of 50 pupils in a class is 150 cm. Five of them whose average height is 146 cm, leave the class, and five others whose average height is 156 cm,join. The new average height of the pupils of the class (in cm) is A) 152 B) 153 C) 151 D) 149 C 25/11/2024 Right: 49.25% Wrong: 18.93% Q6) A group of people consists of men, women, and children. 40% of them are men, 35% are women and rest are children, and their average weights are 70 kg, 60 kg and 30 kg, respectively. The average weight of the group is: A) 45.5 kg B) 46.5 kg c) 55.5 kg D) 56.5 kg Correct Ans: D 28/11/2024 Right: 49.71% Q7) The average of the first twelve multiples of II is: A) 70.5 B) 69.5 C) 68.5 D) 71.5 Correct Ans: D 27/11/2024 Right: 56.48% Wrong: 13.47% Wrong: 13.68% Q8) The average of 70 values is 40. If each value is multiplied by 20, what will be the changed average? A) 800 B) 60 C) 90 D) 1400 Correct Ans: A 28/11/2024 Right: 56.94% Wrong: 28.45% Q9) The weights (inkg) of 9 members ofa school cricket team are 50, 63, x, 62, 64, 48, 51, 55, 48. Ifthe mean weight is 56 kg, then the value of x is A) 48 B) 63 C) 64 D) 57 Correct Ans: B 29/11/2024 QIO) The average of all the prime numbers between 30 and 50 is: A) 40.2 B) 40.4 C) 38.9 D) 39.8 Correct Ans: D 25/11/2024 QII) The average of the prime numbers between II and 30, both excluded, is: A) 20.2 B) 20.3 C) 19.6 D) 19.5 Correct Ans: A 28/11/2024 Download Test RanKlNG App Right: 58.42% Right: 64.64% Right: 67.39% Wrong: 15.49% Wrong: 18.78% Wrong: 17.55%
+
+### Original PDF text layer (cross-check)
+
+Average
+Q1)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 35.30% Wrong: 35.71%
+Q2)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 37.65% Wrong: 17.68%
+Q3)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 42.31% Wrong: 24.70%
+Q4)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 44.16% Wrong: 14.62%
+Q5)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 49.25% Wrong: 18.93%
+Q6)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 49.71% Wrong: 13.47%
+Q7)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 56.48% Wrong: 13.68%
+Q8)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 56.94% Wrong: 28.45%
+Q9)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 58.42% Wrong: 15.49%
+Q10)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 64.64% Wrong: 18.78%
+Q11)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 67.39% Wrong: 17.55%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 8
+
+### OCR text
+
+Gagan Pratap Maths Q12) The average of IO observations is 46. It was realised later that an observation was misread as 42 in place of 142. Find the correct average. A) 56 B) 45 C) 54 D) 65 Correct Ans: A 27/11/2024 Right: 68.42% Wrong: 7.96% QI 3) A class of 30 students appeared in a test. The average score of 12 students is SO, and that of the rest is 75. What is the average score of the class? A) 56 B) 87 C) 67 D) 77 Correct Ans: D 28/11/2024 Q14) The average of the first 30 natural numbers is: A) 15 B) 16 C) 15.5 D) 16.5 Correct Ans: C 26/11/2024 Q15) The average of the first five multiples of 3 is: A) 9 B) 3 C) 12 D) 15 Correct Ans: A 25/11/2024 Download Test RanKlNG App Right: 70.43% Right: 72.36% Right: 72.90% Wrong: 10.71% Wrong: 18.04% Wrong: 20.65%
+
+### Original PDF text layer (cross-check)
+
+Q12)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 68.42% Wrong: 7.96%
+Q13)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 70.43% Wrong: 10.71%
+Q14)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 72.36% Wrong: 18.04%
+Q15)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 72.90% Wrong: 20.65%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 9
+
+### OCR text
+
+Gagan Pratap Maths Discount QI) A scheme like 'Buy 5, Get 6' on the same kind of afficles with the same marked price offers a A) B) 162% C) 112% D) 17.5% Correct Ans: B discount. 28/11/2024 Right: 37.61% Wrong: 40.59% Q2) The shopkeeper offers two successive discounts on a machine that is marked at ZIS,OOO so that its selling price gets reduced to t 12,960. If 10% and x % are the respective discounts, the value of x is: A) 20 B) 10 C) 15 D) 12 CorrectAns:A 28/11/2024 Right: 52.85% Wrong: 14.31% Q3) A shopkeeper provides successive discounts of 5% and 4%, which are equivalent to a single discount of A) 9% B) C) 9.2% D) 8.8% CorrectAns: D 25/11/2024 Right: 59.28% Wrong: 28.30% Q4) Two successive discounts of 30% and 35% on a deal are equivalent to a single discount of: A) B) C) 54.5% D) 55.5% Correct Ans: C 25/11/2024 Right: 63.77% Wrong: 21.83% Q5) Two successive discounts of 10% and 5% are equivalent to a single discount of A) 15.5% B) C) 14.5% D) 1500 C 28/11/2024 Right: 65.22% Wrong: 25.01% Q6) Which of the following options represents two successive discounts that are equivalent to a single discount of 84%? A) B) and c) 1000 and D) and6000 B 26/11/2024 Right: 65.67% Wrong: 12.32% Q7) Amit bought a laptop at a 25% discount on its marked price. If he paid t28,500 for the laptop, what was its marked price? A) OS,OOO B) 07,400 C) 07,OOO D) 08,600 Correct Ans: A 29/11/2024 Right: 68.12% Wrong: 13.17% Q8) A dealer allows a 30% discount on the marked price of an item. What is the marked price of the item if its sale price is A) t17,soo B) t16,760 C) t16,soo D) t17,S60 CorrectAns:A 27/11/2024 Right: 70.72% Wrong: 13.38% Q9) An aaticle is sold for tx after offering two successive discounts of and 15% on its marked price of 2500. The value of x is: A) 340 B) 285 C) 280 D) 345 Correct Ans: A 26/11/2024 Right: 72.39% Wrong: 10.96% QI 0) An article is sold for tx after offering two successive discounts of 2500 and 8% on its marked price of *500. The value of x is: A) 285 B) 280 C) 300 D) 345 Correct Ans: D 26/11/2024 Right: 73.05% Wrong: 9.51% QII) Two successive discounts of 400 and 60% on a deal are equivalent to a single discount of: A) B) C) D) Correct Ans: C 25/11/2024 Right: 73.49% Wrong: 12.63% Q12) Two successive discounts of 25% and 10% on a deal are equivalent to a single discount of: A) B) 34.5% C) 32.5% D) Correct Ans: C 29/11/2024 Right: 75.83% Wrong: 13.17% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Discount
+Q1)
+Correct Ans: B
+A) B) C) D)
+28/11/2024 Right: 37.61% Wrong: 40.59%
+Q2)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 52.85% Wrong: 14.31%
+Q3)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 59.28% Wrong: 28.30%
+Q4)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 63.77% Wrong: 21.83%
+Q5)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 65.22% Wrong: 25.01%
+Q6)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 65.67% Wrong: 12.32%
+Q7)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 68.12% Wrong: 13.17%
+Q8)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 70.72% Wrong: 13.38%
+Q9)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 72.39% Wrong: 10.96%
+Q10)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 73.05% Wrong: 9.51%
+Q11)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 73.49% Wrong: 12.63%
+Q12)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 75.83% Wrong: 13.17%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 10
+
+### OCR text
+
+Gagan Pratap Maths L.C.M and H.C.F QI) If LCM (27, n) = 54 and HCF (27, n) = 9, then the value of n is: A) 24 B) IS C) 54 D) 36 Correct Ans: B 29/11/2024 Right: 60.56% Wrong: 21.03% Q2) The LCM of two numbers is 84. Ifthe numbers are in the ratio 2 : 3, then the sum of the numbers is: A) 25 B) 40 C) 70 D) 60 CorrectAns:C 27/11/2024 Right: 63.56% Q3) The highest common factor ofa set of coprime numbers is equal to: A) I B) the lowest among them c) the highest among them D) 2 Correct Ans: A 26/11/2024 04) The HCF of450, 1500 and 1650 is: A) 50 B) 200 C) 100 D) 150 Correct Ans: D 25/11/2024 Q5) The HCF of the numbers 310, 208 and ISO is: A) 2 B) 4 C) 6 D) S Correct Ans: A 29/11/2024 Right: 68.80% Right: 73.41% Right: 74.43% Wrong: 17.32% Wrong: 17.48% Wrong: 18.85% Wrong: 15.70% Q6) Two numbers are in the ratio 3 : 2. Their LCM and HCF are 24 and 4, respectively. The greater of the two numbeß is: A) 10 B) S C) 12 D) 14 Correct Ans: C 07) The LCM 0fS4, 105 and 140 is: A) 360 B) 240 C) 120 D) 420 Correct Ans: D 08) The LCM of24, 42 and 56 is: A) 186 B) 168 C) 618 D) 816 CorrectAns:B 26/11/2024 25/11/2024 26/11/2024 Right: 75.78% Right: 82.37% Right: 82.54% Wrong: 11.56% Wrong: 8.41% Wrong: 8.54% Q9) Ifthe HCF and the LCM of two numbers are 7 and 245, respectively, then their product is: A) 1517 B) 1175 C) 1751 D) 1715 CorrectAns:D 25/11/2024 Right: 84.72% Wrong: 6.29% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+L.C.M and H.C.F
+Q1)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 60.56% Wrong: 21.03%
+Q2)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 63.56% Wrong: 17.32%
+Q3)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 68.80% Wrong: 17.48%
+Q4)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 73.41% Wrong: 18.85%
+Q5)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 74.43% Wrong: 15.70%
+Q6)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 75.78% Wrong: 11.56%
+Q7)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 82.37% Wrong: 8.41%
+Q8)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 82.54% Wrong: 8.54%
+Q9)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 84.72% Wrong: 6.29%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 11
+
+### OCR text
+
+Gagan Pratap Maths Time and Work QI) Ravi and Kumar are working on an assignment. Ravi takes 6 hours to type 32 pages on a computer, while Kumar takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of I IO pages? A) 8 hours B) S hours 15 minutes c) 7 hours 30 minutes D) S hours 25 minutes Correct Ans: B 26/11/2024 Right: 23.18% Wrong: 17.90% Q2) S men and 12 women can build a wall in IO days. 6 men and S women can build the same wall in 14 days. How many more days will I woman take to build that wall alone compared to the number of days 1 man will take to build the same wall alone? A) 35 days B) 280 days C) 70 days D) 140 days Correct Ans: D 26/11/2024 Right: 31.90% Wrong: 22.98% Q3) Acan do a certain workin the same time in which B and C together can do it. IfAand B together could do it in IO days and C alone in 50 days, then B alone could do it in: A) 15 days B) 30 days C) 20 days D) 25 days Correct Ans: D 29/11/2024 Right: 40.54% Wrong: 15.84% Q4) P is 30% more efficient than Q. How much time will they, working together, take to complete a job that P alone could have done in 23 days? A) II days B) 13 days c) 202 days D) IO days Correct Ans: B 29/11/2024 Right: 41.06% Wrong: 26.05% Q5) S men and 12 women can build a wall in IO days. 6 men and S women can build the same wall in 14 days. How long will take for 2 women and I man to build it together? A) 280 days B) 35 days C) 140 days D) 70 days Correct Ans: D 29/11/2024 Right: 43.42% Wrong: 14.93% Q6) S men and 12 women can build a wall in IO days. 6 men and S women can build the same wall in 14 days. How long will it take for I woman to build it alone? A) 280 days B) 140 days c) 350 days D) 700 days Correct Ans: A 29/11/2024 Right: 46.29% Wrong: 15.78% Q7) If 6 men and S boys can do a piece of work in IO days while 26 men and 48 boys can do the same workin 2 days, then the time taken by 20 men for doing the same piece ofwork will be: A) 4 days B) 5 days c) 2 days D) 3 days Correct Ans: B 27/11/2024 Right: 47.29% Wrong: 14.98% Q8) 4S men can do a work in 5 days while 40 women can do the same work in 9 days. In how many days can 4 men and 6 women together do the same work? A) 24 days B) 30 days c) 4S days D) 42 days Correct Ans: B 27/11/2024 Right: 47.46% Wrong: 19.33% Q9) If 6 men and S boys can do a piece of work in IO days while 26 men and 48 boys can do the same workin 2 days, then the time taken by IO men and 20 boys for doing the same piece ofwork will be: A) 3 days B) 5 days c) 4 days D) 2 days Correct Ans: B 29/11/2024 Right: 47.47% Wrong: 15.60% QI()) If6 men and S boys can do a piece of workin IO days while 26 men and 4S boys cando the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be: A) 5 days B) 6 days c) 4 days D) 7 days Correct Ans: C 27/11/2024 Right: 48.64% < o' Download Test RanKlNG App Wrong: 14.55%
+
+### Original PDF text layer (cross-check)
+
+Time and Work
+Q1)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 23.18% Wrong: 17.90%
+Q2)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 31.90% Wrong: 22.98%
+Q3)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 40.54% Wrong: 15.84%
+Q4)
+Correct Ans: B
+A) B) C) D)
+29/11/2024 Right: 41.06% Wrong: 26.05%
+Q5)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 43.42% Wrong: 14.93%
+Q6)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 46.29% Wrong: 15.78%
+Q7)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 47.29% Wrong: 14.98%
+Q8)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 47.46% Wrong: 19.33%
+Q9)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 47.47% Wrong: 15.60%
+Q10)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 48.64% Wrong: 14.55%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 12
+
+### OCR text
+
+Gagan Pratap Maths QI 1) Aarav can do a piece of work alone in 6 days and Babita can do it alone in S days. Aarav and Babita undertook to do it for With the help of Chaitanya, they completed the work in 3 days. I--low much is to be paid to Babita? A) tl,200 B) 2900 c) tsoo D) zl,400 Correct Ans: B 28/11/2024 Right: 49.58% Wrong: 19.55% QI 2) A and B can together complete a piece of work in 5 days. They worked together for 4 days and then B left. After another 2 days, A completed the remaining work. In how many days can A complete the entire work alone? A) 20 B) IO C) 15 D) 5 Correct Ans: B 28/11/2024 Right: 52.39% Wrong: 14.03% QI 3) A alone can do a piece of work in 6 days and B alone in S days. A and Bundertook to do it for With the help of C, they completed the work in 3 days. How much is to be paid to C? A) tsoo B) *400 c) 075 D) Correct Ans: B 25/11/2024 Right: 55.85% Wrong: 15.16% QI 4) Jaggu can make one wooden chair in 3 days and Rabbu can make the same chair in 4 days. If they work together, in how many days will they make 14 chairs of the same kind? A) IS days B) 16 days c) 24 days D) 20 days Correct Ans: C 26/11/2024 Right: 60.19% Wrong: 13.89% QI 5) If 25 people working 15 hours a day can complete 5 units of workin S days, how many days would be required by 12 persons to complete IO units of work, wolking 20 hours a day? A) 20 days B) 25 days C) 22 days D) 24 days Correct Ans: B 25/11/2024 Right: 61.77% Wrong: 13.94% Q16) Acan complete a piece of work in 20 days and B cando the same workin 15 days. B worked alone for 6 days and left. In how many days can A complete the remaining work alone? A) 10 B) 12 C) 102 D) 16 Correct Ans: B 2 28/11/2024 Download Test RanKlNG App Right: 75.73% Wrong: 12.96%
+
+### Original PDF text layer (cross-check)
+
+Q11)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 49.58% Wrong: 19.55%
+Q12)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 52.39% Wrong: 14.03%
+Q13)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 55.85% Wrong: 15.16%
+Q14)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 60.19% Wrong: 13.89%
+Q15)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 61.77% Wrong: 13.94%
+Q16)
+Correct Ans: B
+A) B) C) D)
+28/11/2024 Right: 75.73% Wrong: 12.96%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 13
+
+### OCR text
+
+Gagan Pratap Maths Percentage QI) Arnab buys 9 oranges and S bananas for *276. When the cost ofan orange is decreased by 10% and that ofa banana remains the same, then the cost of 5 oranges and IO bananas is Q IO. What is the original cost of 4 oranges and 3 bananas? A) B) c) t123 D) CorrectAns:A 29/11/2024 Right: 8.09% Wrong: 9.00% Q2) Arpita buys 9 oranges and 8 bananas for Q 76. When the cost of an orange is decreased by 10% and that ofa banana remains the same, then the cost of 5 oranges and 10 bananas is Q IO. What is the original cost of 3 oranges and 4 bananas? A) B) c) *116 D) CorrectAns:A 25/11/2024 Right: 8.43% Wrong: 8.09% Q3) The cost of 12 pens and 7 pencils is t233. Ifthe cost ofa pen decreases by *1.50 and the cost ofa pencil increases by ZI, then the cost of 2 pens and 3 pencils is uS. What is the original cost of 2 pens and 3 pencils? A) B) C) D) Correct Ans: D 27/11/2024 Right: 13.31% Wrong: 10.93% Q4) The expenditure of Swarna is 125% more than her savings. If her expenditure decreases by 6% and savings increases by 26.5%, then by what percentage does her income increase? A) 20.5% B) 18.5% C) D) 4% D 27/11/2024 Right: 13.56% Wrong: 21.26% Q5) Mr. Hari spends 36% of his income on food items and 25% of the remaining amount on clothes, medical and conveyance. He saves half of the remaining amount every' month. If he saves every' year, then find his monthly income. A) B) C) 254,170 D) t62,500 Correct Ans: D 29/11/2024 Right: 18.18% Wrong: 37.13% Q6) In an election between two candidates, 75% of the voters cast their votes. 2% of the votes cast were declared invalid. A candidate got 9261 votes which were 75% ofthe total valid votes. The total number of voters enrolled in that election was: A) 16,400 B) 18,000 C) 16,800 D) 10,000 Correct Ans: C 29/11/2024 Right: 21.06% Wrong: 15.90% Q7) In a countlY, 55% of the population are females. 80% of the male population is literate. What percentage of females are literate if the total litemcy rate is 58%? A) B) C) 45% D) Correct Ans: B 28/11/2024 Right: 29.41% Wrong: 20.09% Q8) Two students appeared in an examination. One ofthem secured 9 marks more than the other and his marks were 5600 of the sum of their marks. The marks obtained by them were: A) 41 and 32 B) 43 and 34 c) 42 and 33 D) 39 and 30 Correct Ans: C 28/11/2024 Right: 32.25% Wrong: 14.08% Q9) Umesh took 100 chocolates out of 250 chocolates from Ruchi. Umesh gave 20% of his chocolates to Shalaka and 35% of his chocolates to Marry. Then Ruchi gave 50% of her remaining chocolates to Umesh. Find the number of chocolates Umesh had at the end. A) 125 B) 130 C) 120 D) 75 C 29/11/2024 Right: 38.75% Wrong: 17.76% QI O) A reduction of20% in the price of sugar enables a purchaser to obtain 2.5 kg more for t 160. The original price per kg of sugar is: Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Percentage
+Q1)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 8.09% Wrong: 9.00%
+Q2)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 8.43% Wrong: 8.09%
+Q3)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 13.31% Wrong: 10.93%
+Q4)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 13.56% Wrong: 21.26%
+Q5)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 18.18% Wrong: 37.13%
+Q6)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 21.06% Wrong: 15.90%
+Q7)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 29.41% Wrong: 20.09%
+Q8)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 32.25% Wrong: 14.08%
+Q9)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 38.75% Wrong: 17.76%
+Q10)
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 14
+
+### OCR text
+
+Gagan Pratap Maths A) B) t16 C) 220 D) CorrectAns:B 29/11/2024 Right: 39.12% Wrong: 21.37% QI 1) The salaries of P and Q together amount to 22,000. P spends 95% of his salaay and Q spends of his salmy. Ifnow their savings are the same, then P's salaay is: A) B) C) D) Correct Ans: A 25/11/2024 Right: 39.27% Wrong: 21.56% QI 2) In an election between two candidates, one got 55% of the total valid votes and 20% of the votes were invalid. Ifthe total number of votes was 7500, then the winner won the election by a majority of A) 750 B) SOO C) 600 D) 700 Correct Ans: C votes. 28/11/2024 Right: 43.33% Wrong: 20.54% QI 3) Last year, there were 610 boys in a school. The number decreased by this year. How many girls are there in the school if the number of girls is 175% of the total number of boys in the school this year? A) 854 B) 798 C) 782 D) uS Correct Ans: A 25/11/2024 Right: 44.49% Wrong: 11.91% QI 4) A town had a population of 50,000 in 19SS. In one year, by 1989, it increased by 25%. Next year, in 1990, it decreased by 30%. The next year, in 1991, there was an increase of 40%. What is the population at the end of 1991 ? A) 62,250 B) 61,250 C) 60,250 D) 66,550 Correct Ans: B 28/11/2024 Right: 53.18% Wrong: 13.71% QI 5) A person saves 30% of his monthly income. If his monthly income increases by 20%, then he saves 20% more than the previous savings. The percentage increase in his expenditure is A) 30% B) C) D) 25% Correct Ans: C 27/11/2024 Right: 53.95% Wrong: 18.73% Q16) If 600 0 ofa number is added to 120, then the result is the number itself. 6000 of this number is A) 200 B) 320 C) D) 300 C 27/11/2024 Right: 54.48% Wrong: 25.10% QI 7) TWO plumbers, Xand Y, are paid a total oft660 per day by their employer. If X is paid 12000 of the sum paid to Y, then how much is Y paid per day? A) B) OOO C) D) Correct Ans: B 26/11/2024 Right: 54.83% Wrong: 11.53% QI 8) The income of X is more than Y's income and the income of Y is 40% more than Z's income. By what percentage is X's income more than Z's income? A) 234% B) 134% C) 224% D) 124% Correct Ans: D 26/11/2024 Right: 57.97% Wrong: 16.33% Q19) When 1000 of the inhabitants ofa village died ofcholera, a panic set in, during which 25% ofthe remaining inhabitants left the village. The population then reduced to 4050. Find the number of original inhabitants. A) 7000 B) 5000 C) SOOO D) 6000 Correct Ans: D 26/11/2024 Right: 58.15% Wrong: 14.23% Q2()) In an election, only two candidates contested. One candidate secured 70% of the valid votes and won by a majority of 172 votes. The total number of valid votes was: A) 570 B) 560 C) 430 D) 480 Correct Ans: C 28/11/2024 Right: 60.60% Wrong: 14.53% Q21) Anil spends 40% of his income on rent and 40% of the remaining income on medicines. If he saves t 7,200 evelY month, then his monthly income is: A) B) C) D) Correct Ans: B 25/11/2024 Right: 62.17% Download Test RanKlNG App Wrong: 21.81%
+
+### Original PDF text layer (cross-check)
+
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 39.12% Wrong: 21.37%
+Q11)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 39.27% Wrong: 21.56%
+Q12)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 43.33% Wrong: 20.54%
+Q13)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 44.49% Wrong: 11.91%
+Q14)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 53.18% Wrong: 13.71%
+Q15)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 53.95% Wrong: 18.73%
+Q16)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 54.48% Wrong: 25.10%
+Q17)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 54.83% Wrong: 11.53%
+Q18)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 57.97% Wrong: 16.33%
+Q19)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 58.15% Wrong: 14.23%
+Q20)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 60.60% Wrong: 14.53%
+Q21)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 62.17% Wrong: 21.81%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 15
+
+### OCR text
+
+Gagan Pratap Maths Q22) Out of his total income, Sanjay spends 20% on house rent and 70% of the rest on household expenses. If he saves 1,800, then his total income is: A) t9,ooo B) t10,ooo C) t7,500 D) ts,ooo Correct Ans: C 29/11/2024 Right: 62.42% Wrong: 17.04% Q23) The tax ona commodity is reduced by 20% and its consumption is increased by 15%. What is the effect on tax revenue? A) It increases by 10% B) It decreases by 8% c) It increases by D) No change Correct Ans: B 25/11/2024 Right: 63.36% Wrong: 15.23% Q24) Out of his total income, Sanjay spends 20% on house rent and 70% of the rest on household expenses. If he saves 1,800, then his total income is: A) t10,ooo B) t7,500 c) ts,ooo D) t9,ooo Correct Ans: B 26/11/2024 Right: 63.92% Wrong: 15.27% Q25) The tax on a commodity is reduced by 100 0, but its consumption is increased by 20%. The percentage increase in the tax revenue derived from it is: A) 1500 B) C) D) B 26/11/2024 Right: 65.10% Wrong: 17.55% Q26) Aman loses 20% of his money. After spending 25% of the remaining amount, he has *4SO left. What is the amount of money he originally had? A) tsoo B) 2600 c) t720 D) Correct Ans: A 25/11/2024 Right: 67.27% Wrong: 15.52% Q27) A fruit seller had some apples. He sells 40% of those apples and still has 240 apples. How many apples did he originally have? A) 400 B) 588 C) 372 D) 600 Correct Ans: A 29/11/2024 Right: 73.66% Wrong: 18.81% Q28) After a decrease of 24%, the price of an article is OSS. The actual cost of the article is: A) B) C) D) CorrectAns: C 27/11/2024 Right: 73.92% Wrong: 13.16% Q29) A's salmy is 20% less than B's salary. By what percentage is B's salmy more than A's salary? A) B) C) D) CorrectAns:C 27/11/2024 Right: 75.74% Wrong: 17.56% (230) By how much is of 40 greater than— of 25? A) 12 B) 6 C) 9 D) 4 Correct Ans: A 29/11/2024 Right: 78.25% Wrong: 8.67% Q31) The monthly income ofa person is and his monthly expenditure is Approximately what percentage of his monthly income does he save monthly? A) B) C) 28.57% D) 33.33% CorrectAns: D Q32) By how much is 50% of 60 greater than 30% of 40? A) 15 B) 18 C) 20 D) 13 CorrectAns: B 27/11/2024 29/11/2024 Right: 81.400/0 Right: 85.05% Wrong: 7.53% Wrong: 8.53% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Q22)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 62.42% Wrong: 17.04%
+Q23)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 63.36% Wrong: 15.23%
+Q24)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 63.92% Wrong: 15.27%
+Q25)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 65.10% Wrong: 17.55%
+Q26)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 67.27% Wrong: 15.52%
+Q27)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 73.66% Wrong: 18.81%
+Q28)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 73.92% Wrong: 13.16%
+Q29)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 75.74% Wrong: 17.56%
+Q30)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 78.25% Wrong: 8.67%
+Q31)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 81.40% Wrong: 7.53%
+Q32)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 85.05% Wrong: 8.53%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 16
+
+### OCR text
+
+Gagan Pratap Maths Profit and Loss QI) Aman sells an aflicle at a profit of 25%. If he had bought it at 20% less and sold it for Z 10.50 less, he would have gained 30%. Find the cost price of the afficle. A) B) 2125 C) D) Correct Ans: C 27/11/2024 Right: 26.34% Wrong: 17.35% Q2) A dishonest shopkeeper claimed to have sold an item at t23/kg, which cost him t25/kg. However, by using faulty weights, he gave only 600 gm instead of I kg. What is his total percentage profit or loss? A) 23% loss B) 20% loss c) 62-%profit D) 53200 profit Correct Ans: D 29/11/2024 Right: 30.75% Wrong: 17.98% 03) Aman bought a number of oranges at 3 fora equal number at 2 fora At what price per dozen should he sell them to make a profit of 20%? A) B) C) D) 26 Correct Ans: D 25/11/2024 Right: 33.92% Wrong: 22.86% Q4) A dishonest shopkeeper pretends to sell his goods at cost price. However, he uses a false weight on which 984 gm is written, but actually weighs lesser. Using this false weight, the shopkeeper makes a gain of 23%. The actual measure of the weight used is: A) 935 gm B) SOO gm C) 850 gm D) 900 gm Correct Ans: B 26/11/2024 Right: 34.28% Wrong: 13.13% Q5) A dishonest dealer professes to sell his goods at cost price, but uses a false weight and thus gains 25%. For 100 gm, he uses a weight of how many grams? A) 70gm B) 85 gm c) 75gm D) sogm CorrectAns:D 28/11/2024 Right: 37.93% Wrong: 39.37% Q6) A dishonest shopkeeper pretends to sell his goods at cost price. However, he uses a false weight on which 200 gm is wiitten, but which actually weighs lesser. Using this false weight, the shopkeeper makes a gain of 25%. The actual measure of the weight used is: A) 150 gm B) 200 gm c) 160 gm D) 180 gm Correct Ans: C 27/11/2024 Right: 38.18% Wrong: 29.68% Q7) Aman sells 320 mangoes at the cost price of400 mangoes (Cost price ofall the articles is same. Selling price of all the articles is same). His gain percentage is: A) B) C) D) CorrectAns: B 28/11/2024 Right: 50.38% Wrong: 37.79% Q8) A vendor sold IO toffees for a mpee, thereby gaining 20%. How many did he buy for a mpee? A) 6 B) 12 c) IO D) 8 Correct Ans: B 28/11/2024 Right: 54.39% Wrong: 29.39% Q9) The cost price ofa toy is Q IO. What should be its marked price so that, after a discount of 5%, the shopkeeper gains A) aso B) c) t420 D) Correct Ans: C 29/11/2024 Right: 56.77% Wrong: 14.81% QIO) A trader lost 20% by selling a watch for tl,024. What percentage will he gain by selling it for t 1,472? A) B) C) D) CorrectAns:A < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Profit and Loss
+Q1)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 26.34% Wrong: 17.35%
+Q2)
+Correct Ans: D
+A) B) C) D)
+29/11/2024 Right: 30.75% Wrong: 17.98%
+Q3)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 33.92% Wrong: 22.86%
+Q4)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 34.28% Wrong: 13.13%
+Q5)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 37.93% Wrong: 39.37%
+Q6)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 38.18% Wrong: 29.68%
+Q7)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 50.38% Wrong: 37.79%
+Q8)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 54.39% Wrong: 29.39%
+Q9)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 56.77% Wrong: 14.81%
+Q10)
+A) B) C) D) Correct Ans: A
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 17
+
+### OCR text
+
+Gagan Pratap Maths 26/11/2024 Right: 59.40% Wrong: 17.51% QII) Aman sold an alticle for Z247.50, there by gaining 12.5%. The cost of the aflicle was: A) t220 B) 2225 C) t210 D) 2224 Correct Ans: A 25/11/2024 Right: 59.88% Wrong: 19.94% (212) A shopkeeper, on selling a pan for z IO, loses— of what it cost him. The cost price ofa pan is: II A) B) C) D) 212 CorrectAns:B 25/11/2024 Right: 60.70% Wrong: 19.61% QI 3) A retailer would have made a profit of if he had sold an article at its marked price. Ifthe marked price of the article is 2826, then the cost price of the article is: A) tsoo B) 2750 c) D) Correct Ans: C 27/11/2024 Right: 63.09% Wrong: 14.48% Q14) A sells a bicycle to B ata profit of and B sells it to Cata profit of 25%. IfC pays then what did Apay for A) tl,125 B) c) tl,100 D) 025 CorrectAns: B 26/11/2024 Right: 65.58% Wrong: 14.68% QI 5) A dishonest dealer professes to sell goods at the cost price, but uses a false weight of 900 grams instead ofa kg. His gain percentage is: A) 112% B) C) 112% D) 10% Correct Ans: C 9 9 29/11/2024 Right: 67.82% Wrong: 19.14% Q16) A shopkeeper bought an article for 2319.60. Approximately, at what price should he sell the article to make a 25% profit? A) ?450 B) Z400 C) ?600 D) z50() Correct Ans: B 27/11/2024 Right: 68.31% Wrong: 12.30% QI 7) An alticle is marked at 50% above its cost price. Ifthe marked price of the alticle is tl,500, then the cost price of the article is: A) t750 B) tl,200 c) tl,ooo D) Correct Ans: C 27/11/2024 Download Test RanKlNG App Right: 71.42% Wrong: 20.26%
+
+### Original PDF text layer (cross-check)
+
+26/11/2024 Right: 59.40% Wrong: 17.51%
+Q11)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 59.88% Wrong: 19.94%
+Q12)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 60.70% Wrong: 19.61%
+Q13)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 63.09% Wrong: 14.48%
+Q14)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 65.58% Wrong: 14.68%
+Q15)
+Correct Ans: C
+A) B) C) D)
+29/11/2024 Right: 67.82% Wrong: 19.14%
+Q16)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 68.31% Wrong: 12.30%
+Q17)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 71.42% Wrong: 20.26%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 18
+
+### OCR text
+
+Gagan Pratap Maths Simple and Compound Interest QI) A sum of money, on compound interest, amounts to t5,290 in 2 years and to Z6,OS3.50 in 3 years. If interest is compounded annually, then the rate of interest per annum is: A) 162% B) C) D) Correct Ans: B 29/11/2024 Right: 20.02% Wrong: 25.10% Q2) A sum of money, on compound interest, amounts to Z57S.40 in 2 years and to t614.55 in 3 years. The rate of interest per annum, in case of annual compounding, is: A) B) 00/0 C) D) Correct Ans: B 28/11/2024 Right: 24.29% Wrong: 14.02% 03) Aman invested 2 of his income at 7% simple interest, of his income at simple interest, and the remainder of his income at 10% simple interest. Ifthe total interest at the end of one year was 2561, what was his initial income? A) B) z6,600 c) t7,500 D) t3,ooo Correct Ans: B 25/11/2024 Right: 26.14% Wrong: 9.73% 04) If a sum amounts to 2 2 times the sum after 2 years on a ceftain rate ofcompound interest, compounded annually, then the rate of interest per annum is: A) B) C) D) 4000 Correct Ans: B 28/11/2024 Right: 38.54% Wrong: 21.29% Q5) A invests ZS,OOO and B invests t II,OOO at the same rate of simple interest per annum. If, at the end of 3 years, B gets 2720 more interest than A, then find the rate of simple interest per annum. A) B) C) 6% D) Correct Ans: D 26/11/2024 Right: 50.03% Wrong: 13.63% Q6) A sum of money doubles itself at a certain rate of compound interest in 12 years when the interest is compounded annually. In how many years will it become eight times of itself? A) 36 B) 12 C) 48 D) 24 CorrectAns:A 25/11/2024 Right: 54.81% Wrong: 23.89% Q7) Ifa sum of money doubles itself in IO years on compound interest, then in how many years will it become 16 times of itself at the same rate of interest? A) 20 B) 10 C) 40 D) 30 Correct Ans: C 26/11/2024 Right: 57.29% Wrong: 18.11% 08) A sum of money lent on simple interest becomes — of itself in 4 years. Find the rate of interest per annum. A) B) C) 6% D) CorrectAns:A 27/11/2024 Right: 61.92% Wrong: 13.63% Q9) Find the compound interest on Z 11,000 in 2 years at 4% p.a., interest compounded yearly. A) t875.so B) 006.50 C) t7S6.60 D) 2-897.60 Correct Ans: D 25/11/2024 Right: 65.10% Wrong: 14.23% QIO) How long will it take for to become Z2,040 at a rate of 8% per annum simple interest? A) 3 years B) 42 years c) 2 years D) 42 years Correct Ans: B 29/11/2024 Right: 67.79% Wrong: 15.53% QII) In what duration will a sum of money double itself at 10% per annum rate of simple interest? A) IO years B) S years C) 12 years D) 5 years Correct Ans: A 26/11/2024 Right: 72.68% Wrong: 15.27% < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Simple and Compound Interest
+Q1)
+Correct Ans: B
+A) B) C) D)
+29/11/2024 Right: 20.02% Wrong: 25.10%
+Q2)
+Correct Ans: B
+A) B) C) D)
+28/11/2024 Right: 24.29% Wrong: 14.02%
+Q3)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 26.14% Wrong: 9.73%
+Q4)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 38.54% Wrong: 21.29%
+Q5)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 50.03% Wrong: 13.63%
+Q6)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 54.81% Wrong: 23.89%
+Q7)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 57.29% Wrong: 18.11%
+Q8)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 61.92% Wrong: 13.63%
+Q9)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 65.10% Wrong: 14.23%
+Q10)
+Correct Ans: B
+A) B) C) D)
+29/11/2024 Right: 67.79% Wrong: 15.53%
+Q11)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 72.68% Wrong: 15.27%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 19
+
+### OCR text
+
+Gagan Pratap Maths QI 2) Amna borrowed a sum of 29,000 from Jayshree at per annum on compound interest, compounded annually. Find the total amount paid by Amna after 2 years to clear all the dues. A) B) {10,890 C) {10,980 D) B 25/11/2024 Right: 73.01% Wrong: 8.34% QI 3) At what rate (in percentage) per annum will Z 1,300 give Z520 as simple interest in 5 years? A) 4% B) 5% C) 7% D) Correct Ans: D 27/11/2024 Right: 74.01% Wrong: 14.26% Q14) What sum will earn a simple interest of Z4S0 in 3 years at 16% per year rate of interest? A) B) c) tl,200 D) Correct Ans: B 27/11/2024 Right: 78.46% Wrong: 10.32% Q15) The simple interest on ZI ,280 at 5% p.a. in 3 years is: A) t192 B) tiso C) D) CorrectAns:A 29/11/2024 Right: 85.80% Wrong: 6.05% Q16) Find the simple interest on Z-3,000 as a sum borrowed at 4% per year rate of interest for 5 years. A) B) zSOO c) ?300 D) Correct Ans: D 28/11/2024 Right: 87.68% Wrong: 5.27% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Q12)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 73.01% Wrong: 8.34%
+Q13)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 74.01% Wrong: 14.26%
+Q14)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 78.46% Wrong: 10.32%
+Q15)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 85.80% Wrong: 6.05%
+Q16)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 87.68% Wrong: 5.27%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 20
+
+### OCR text
+
+Gagan Pratap Maths Distance, Time, and Speed QI) A diver rowing at the speed of 3 knih in still water takes double the time going 50 km upstream compared to going 50 km downstream. The speed of the diver downstream is: A) — km/h B) 4 km/h c) — km/h D) knvh Correct Ans: B 25/11/2024 Right: 14.32% Wrong: 21.39% Q2) A diver rowing at the speed of 3 knih in still water takes double the time going 50 km upstream compared to going 50 km downstream. The speed of the diver against the stream is: A) kmih B) I km/h c) 7 Correct Ans: D — knvh D) 2 km/h 26/11/2024 Right: 14.45% Wrong: 24.22% Q3) Rama walks to her office 5 away from home. In the morning, she covers the distance in I hour whereas, while returning home in the evening, she takes 15 more minutes to cover the same distance. Find her average speed (in km/h) during the two-way journey. A) 3— B) C) 32 D) 42 Correct Ans: B 5 9 3 28/11/2024 Right: 39.97% Wrong: 15.35% Q4) Two people drive towards each other from two places which are 56 km apatt. The speed of the first person is 12 km/h and the speed of the other is 14 knv'h. After how long will they be 4 km apart if they staat driving at the same time? A) I hour 30 minutes B) I hour c) 2 hours IO minutes D) 2 hours Correct Ans: D 27/11/2024 Right: 44.30% Wrong: 16.12% Q5) I walk at a speed of IO km'h and reach the destination in 2 hrs, exactly on time. If I increase my speed by 5 knvh, how early would I reach my destination? A) 50 min B) 20 min c) 40 min D) 30 min Correct Ans: C 28/11/2024 Right: 49.66% Wrong: 27.59% Q6) A thief mnning at a speed of S is chased by a policeman whose speed is IO km/h. Ifthe thief is 100 m ahead of the policeman, then the time required for the policeman to catch the thief will be: A) 3 minutes B) 2 minutes C) 6 minutes D) IO minutes Correct Ans: A 27/11/2024 Right: 50.39% Wrong: 21.95% Q7) A 250 m long train mnning ata speed of 100 km[h crosses another train, coming from the opposite direction at a speed of 62 km/h, in IO seconds. What is the length of the second train? A) 200m B) 240 m C) 230 m D) 270 m Correct Ans: A 29/11/2024 Right: 53.45% Wrong: 14.10% Q8) TWO trains travelling in the same direction at 40 km/h and 22 km/h cross each other completely in I minute. Ifthe length of the first train is 125 m, what is the length of the second train? A) 175m B) 185 m c) 150m D) 125m Correct Ans: A 29/11/2024 Right: 54.20% Wrong: 13.68% Q9) TWO trains, each 250 m in length, are nlnning on parallel lines in opposite directions at speeds of 90 km/h and 60 knVh respectively. In how many seconds will they cross each other completely? A) 15 sec B) IS sec c) IO sec D) 12 sec Correct Ans: D 25/11/2024 Right: 56.49% Wrong: 20.32% QIO) A cyclist covers 2.5 km in 4 minutes IO seconds. How long will he take to cover 6 kmat the same speed? A) 12 minutes B) II minutes c) 9 minutes D) 10 minutes Correct Ans: D 26/11/2024 Right: 62.42% Wrong: 17.97% QI I) A car travels SO km at the speed of 20 knv'h and the next 30 km at the speed of 30 km/h. What is its average speed? < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Distance, Time, and Speed
+Q1)
+Correct Ans: B
+A) B) C) D)
+25/11/2024 Right: 14.32% Wrong: 21.39%
+Q2)
+Correct Ans: D
+A) B) C) D)
+26/11/2024 Right: 14.45% Wrong: 24.22%
+Q3)
+Correct Ans: B
+A) B) C) D)
+28/11/2024 Right: 39.97% Wrong: 15.35%
+Q4)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 44.30% Wrong: 16.12%
+Q5)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 49.66% Wrong: 27.59%
+Q6)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 50.39% Wrong: 21.95%
+Q7)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 53.45% Wrong: 14.10%
+Q8)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 54.20% Wrong: 13.68%
+Q9)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 56.49% Wrong: 20.32%
+Q10)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 62.42% Wrong: 17.97%
+Q11)
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 21
+
+### OCR text
+
+Gagan Pratap Maths A) 30knYh B) 20 km/h C) 40 kmh D) 22 km/h CorrectAns: D 25/11/2024 Right: 65.68% Wrong: 12.93% QI 2) A car can cover 275 kmin 5 hours. If its speed is reduced by 5 knvhr, then how much time will the car take to cover a distance of 250 km? A) 4 hr30min B) 6 hr c) 5 hr30min D) 5 hr Correct Ans: D 26/11/2024 Right: 66.40% Wrong: 14.66% QI 3) Sumit travelled 10 km 120 m by scooter, I 970 m on foot and 15 km 850 m by bus. What is the total distance travelled by Sumit? A) 27 km930m B) 27 km920m c) 27km950m D) 27 km940m CorrectAns:D 27/11/2024 Right: 73.87% Wrong: 6.19% Q14) A train travelling at a speed of 45 km/h crosses a pole in 24 sec. What is the length of the train? A) 125m B) 300m C) 30m D) 1.5m B 27/11/2024 Right: 74.08% Wrong: 11.15% QI 5) Reena nms at a speed of S km/h. How long will she take to cover 200 m? A) 175 seconds B) 54 seconds C) 90 seconds D) 120 seconds Correct Ans: C 28/11/2024 Right: 77.49% Wrong: 11.51% Q16) A train travelling at a speed of 72 km/h crosses a pole in 24 sec. What is the length of the train? A) 300m B) 125m c) 150m D) 4SOm D 25/11/2024 Right: 79.56% Wrong: 9.35% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 65.68% Wrong: 12.93%
+Q12)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 66.40% Wrong: 14.66%
+Q13)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 73.87% Wrong: 6.19%
+Q14)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 74.08% Wrong: 11.15%
+Q15)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 77.49% Wrong: 11.51%
+Q16)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 79.56% Wrong: 9.35%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 22
+
+### OCR text
+
+Gagan Pratap Maths Trigonometry QI) If 9 is an acute angle, find the denominator D, when 1 — cos 9 (cot 9 — cosec = —1 cos 9 D) 1 + cos 9 Correct Ans: D A) 1 + sin 9 B) —sine —1 c) — 29/11/2024 02) Simplify: (I — sec2 — sin + sin + cot2 9) . —l C) 0 D) 1 Correct Ans: B 29/11/2024 03) If cos49 — sin49 = k , then the value of!z— is: A) tan29 B) sin29 c) cot29 D) cosec29 Correct A 28/11/2024 Right: 13.29% Right: 18.60% Right: 21.51% Wrong: 16.68% Wrong: 36.04% Wrong: 17.05% Q4) If sec 4A = cosec (3A — 500) , where4A and 3A are acute angles, find the value ofcosec(A + 250). 1 Correct Ans: D 27/11/2024 Right: 28.71% Wrong: 11.02% 05) 1 *cos e Simplify the expression: is: I—cos e A) sece + cote B) cosec e—cot9 c) sece — cote D) cosec + cote Correct Ans: D 29/11/2024 Right: 34.10% Wrong: 24.39% 06) Which of the following options gives the correct expression for y, when cos A = y, andsinA* 1? I—sin A A) cosecA B) secA + tanA c) sinA+1 D) cosA+1 Correct Ans: C 28/11/2024 07) If4sin2 0 = I and O is an acute angle, then the value ofcos2 0 + tan2 0 — 5 1 Correct Ans: A 12 13 4 25/11/2024 cos A 08) Simplify the expression: sin A + tan (90 — A) A) 2cosecA B) cotA c) 2sinA D) tanA Correct Ans: C 26/11/2024 09) cos 450 is equal to: tan 300 + cot 600 Correct Ans: D A) B) C) D) 27/11/2024 Download Test RanKlNG App Right: 34.57% Right: 43.51% Right: 45.65% Right: 48.04% Wrong: 13.81% Wrong: 17.52% Wrong: 14.03% Wrong: 18.15%
+
+### Original PDF text layer (cross-check)
+
+Trigonometry
+Q1)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 13.29% Wrong: 16.68%
+Q2)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 18.60% Wrong: 36.04%
+Q3)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 21.51% Wrong: 17.05%
+Q4)
+Correct Ans: D
+A) B) C) D)
+27/11/2024 Right: 28.71% Wrong: 11.02%
+Q5)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 34.10% Wrong: 24.39%
+Q6)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 34.57% Wrong: 13.81%
+Q7)
+Correct Ans: A
+A) B) C) D)
+25/11/2024 Right: 43.51% Wrong: 17.52%
+Q8)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 45.65% Wrong: 14.03%
+Q9)
+Correct Ans: D
+A) B) C) D)
+27/11/2024 Right: 48.04% Wrong: 18.15%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 23
+
+### OCR text
+
+Gagan Pratap Maths Height and Distance QI) There is a IO m tall tower between two parallel roads. The angles of depression of the roads from the top of the tower are 300 and 450 respectively. Approximately, how far are the roads from each other? A) 30.82m B) 27.32m C) 29.56m D) 26.44m CorrectAns: B 25/11/2024 Right: 22.98% Wrong: 11.93% Q2) The angle of elevation of the top ofa small tree from a point on the ground 300 m away from the foot of the tree was 300. When the tree grew taller, its angle of elevation became 600 from the same point. By how much did the tree grow? 100 200 Correct Ans: B m D) 100€3 m A) 26/11/2024 Right: 24.18% Wrong: 23.44% Q3) A tree breaks and falls to the ground such that its upper part is still partially attached to its stem. At what height did it break, if the original height of the tree was 24 m and it makes an angle of 300 with the ground? A) 9m B) 10m C) 12m D) S m Correct Ans: D 26/11/2024 Right: 30.73% Wrong: 23.97% Q4) From a point on the ground, the angles ofelevation of the top and the bottom ofa flag that is mounted on an IS m high pole, are respectively 600 and 300. The height of the flag is: A) 52m B) 36m c) 60m D) 48m Correct Ans: B 28/11/2024 Right: 32.44% Wrong: 10.02% Q5) Ramesh and Suresh's mud buildings have heights of S cm and 15 cm respectively They are 24 cm apaft. How far are the tops of their mud buildings from each other? A) 24 cm B) 30cm c) 25 cm D) 31 cm Correct Ans: C 27/11/2024 Right: 49.46% Wrong: 17.69% Q6) At a panicular time during the day, owing to the position of the sun, a 6 feet tall man casts a shadow of 4 feet, whereas a pole next to the man casts a shadow of 36 feet. What is the height of the pole? A) 56 feet B) 54 feet c) 63 feet D) 60 feet Correct Ans: B 25/11/2024 Download Test RanKlNG App Right: 51.87% Wrong: 10.87%
+
+### Original PDF text layer (cross-check)
+
+Height and Distance
+Q1)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 22.98% Wrong: 11.93%
+Q2)
+Correct Ans: B
+A) B) C) D)
+26/11/2024 Right: 24.18% Wrong: 23.44%
+Q3)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 30.73% Wrong: 23.97%
+Q4)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 32.44% Wrong: 10.02%
+Q5)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 49.46% Wrong: 17.69%
+Q6)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 51.87% Wrong: 10.87%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 24
+
+### OCR text
+
+Gagan Pratap Maths Data Interpretation QI) Study the given graph and answer the question that follows. The graph shows the number of students involved in different after-school activities. 30 25 20 15 10 Sports 15 Study 15 10 Dance Activities 20 Wæching What is the average number of students palticipating in Sports and Yoga? A) 40 B) 20 C) 30 D) 50 Correct Ans: B Q2) Study the given table and answer the question that follows. 26/11/2024 Right: 71.26% Wrong: 15.39% The table depicts the number of different articles X and Y sold in the year 2019 and 2020. Years Number of article X umber of article Y 2019 125 2020 110 150 130 What is the absolute difference between the number of article X sold in the year 2019 and 2020? A) 15 B) 45 C) 25 D) 35 Correct Ans: A 29/11/2024 Right: 71.32% Wrong: 16.84% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Data Interpretation
+Q1)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 71.26% Wrong: 15.39%
+Q2)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 71.32% Wrong: 16.84%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 25
+
+### OCR text
+
+Gagan Pratap Maths Q3) Study the following gmph and answer the given question. The following bar graph shows annual exponts (in crore) ofa company during the period 2015 to 2019. 55 45 35 x 15 10 2015 2016 2017 2018 Years 2019 What is the average export (in crore) of the year 2016 and 2018? A) 30 B) 70 C) 90 D) 60 Correct Ans: A 27/11/2024 Q4) Study the following graph and answer the given question. The graph shows the number of articles sold in a week by different shops. 2000 1750 1750 1500 1500 1250 1000 8 1000 500 250 Shops What percentage of aflicles did shop C sell more than shop B? A) B) 5000 C) D) Correct Ans:A 27/11/2024 Download Test RanKlNG App Right: 73.87% Right: 73.95% Wrong: 12.09% Wrong: 9.19%
+
+### Original PDF text layer (cross-check)
+
+Q3)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 73.87% Wrong: 12.09%
+Q4)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 73.95% Wrong: 9.19%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 26
+
+### OCR text
+
+Gagan Pratap Maths Q5) Study the given graph and answer the question that follows. The graph shows the number of employees who used different modes of tmnspoft in the year 2010. E 350 Mode Of Transports What is the respective ratio between the number of employees who used Bike to the number of employees who used Metro? A) B) C) D) CorrectAns:B Q6) Study the following table and answer the question. 25/11/2024 Right: 74.11% Wrong: 6.13% The table depicts the number of cars and bikes manufactured by a company in the year 2012 and 2013. Years 2012 2013 umber of cars umber of bikes In Thousand) (In Thousand) 5 50 60 How many cars (In Thousand) were manufactured in the year 2012 and 2013 together? A) 75 B) 85 C) 105 D) 95 Correct Ans: B Q7) Study the given table and answer the question that follows. 28/11/2024 Right: 75.71% Wrong: 14.73% The table depicts the number of tickets sold on Friday and Saturday by cash and online mode for a cricket match. Days Number of tickets umber of tickets Frida Saturday sold cash 725 1 ooo sold online 525 3000 How many tickets were sold in total on Friday by cash and online together? 1150 B) 1250 C) 1350 D) 1050 B 25/11/2024 Download Test RanKlNG App Right: 78.86% Wrong: 10.07%
+
+### Original PDF text layer (cross-check)
+
+Q5)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 74.11% Wrong: 6.13%
+Q6)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 75.71% Wrong: 14.73%
+Q7)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 78.86% Wrong: 10.07%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 27
+
+### OCR text
+
+Gagan Pratap Maths Q8) Study the following table and answer the question. The table shows the number of people who visited hill stations A and B in the years from 2011 to 2013. Year 2011 2012 2013 777 675 470 566 289 978 What is the absolute difference between the number of people who visited hill station A in the year 2011 to the number of people who visited hill station B in the same year? A) 211 B) 102 C) 112 D) 312 CorrectAns:A 28/11/2024 Right: 80.02% Wrong: 3.36% Q9) Study the given table and answer the question that follows. The table depicts new admissions in the Primary' and Middle wings of a school in the years 2021 and 2022. ears New admission in New admission in Pri 021 022 Win 25 12 Middle Win 15 How many new admissions were there in the Primmy wing of the school in the years 2021 and 2022 together? A) 35 B) 31 C) 37 D) 33 Correct Ans: C Q 10) Study the following graph and answer the given question. The graph shows the height of five students in a class. tso 80 40 Ami Students What is the respective ratio between the height of Amit and height of Rahul? 12: 13 B) 5: 6 C) 7: S D) 9: 10 CorrectAns:C 26/11/2024 Right: 80.72% Wrong: 8.40% < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Q8)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 80.02% Wrong: 3.36%
+Q9)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 80.72% Wrong: 8.40%
+Q10)
+A) B) C) D) Correct Ans: C
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 28
+
+### OCR text
+
+Gagan Pratap Maths 29/11/2024 QI 1) Study the following graph and answer the given question. % 25 Right: 80.86% Wrong: 4.83% The bar graph shows the annual exports (in crores) of a company during the period 2015 to 2019. 55 50 25 10 5 2015 20 2016 40 35 2017 2018 Years 2019 What is the respective ratio between the annual expozt of 2015 to the annual expoat of 2017? A) 13 : 16 B) 4 : 9 c) 6 : II D) 5 : 7 Correct Ans: D Q12) Study the given graph and answer the question that follows. 29/11/2024 Right: 81.080/0 The graph shows the daily production of TV sets in a fact01Y for 6 days of a week. 450 350 300 250 E 200 z 150 100 so 200 Mon Tues wed 450 Fri Wrong: 4.29% Wrong: 4.44% How many units of TV sets were produced on Monday and Tuesday together? A) 400 B) 700 C) 500 D) 600 Correct Ans: C 26/11/2024 Right: 81.47% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+29/11/2024 Right: 80.86% Wrong: 4.83%
+Q11)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 81.08% Wrong: 4.29%
+Q12)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 81.47% Wrong: 4.44%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 29
+
+### OCR text
+
+Gagan Pratap Maths QI 3) Study the following graph and answer the given question. The given bar graph shows the annual production of rice in a state during the period 201 S to 2022. 100 80 60 60 40 20 2018 40 2019 100 2020 Years 80 60 2021 What is the total production of rice (in lakh tons) for the years 2020, 2021 and 2022 together? A) 270 B) 240 C) 250 D) 260 Correct Ans: B 25/11/2024 Right: 82.48% Q14) Study the following table and answer the given question. The table shows the expenditure of a family over the given years. Expenditure in Year 2011 2012 Food 2000 2500 Clothing 1200 1100 Education 3300 3200 Rent 2000 2300 Others 4000 4100 Wrong: 3.20% Wrong: 4.06% What is the total expenditure (in Z) on food by the family for the year 2011 and 2012? A) 5,000 B) 5,500 C) 4,500 D) 6,000 Correct Ans: C 28/11/2024 Right: 82.77% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Q13)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 82.48% Wrong: 3.20%
+Q14)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 82.77% Wrong: 4.06%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 30
+
+### OCR text
+
+Gagan Pratap Maths QI 5) Study the following graph and answer the given question. The bar graph shows the number of different items sold by a shopkeeper in their respective quantities. 35 Items What is the total units of Headphones and Mobile phones sold put together? A) 25 B) 35 C) 15 D) 45 Correct Ans: D 27/11/2024 Download Test RanKlNG App Right: 83.66% Wrong: 4.50%
+
+### Original PDF text layer (cross-check)
+
+Q15)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 83.66% Wrong: 4.50%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 31
+
+### OCR text
+
+Gagan Pratap Maths Ratio and Proportion QI) In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Which numbers should replace X and Y so that the pattern followed by the two numbers on the left side of :: is same as that on the right side of ::? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 — Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into I and 3 and then performing mathematical operations on 1 and 3 is not allowed.) X: 243 17 : Y A) 169 B) 156 c) 171 D) 148 CorrectAns:C 25/11/2024 Right: 4.24% Wrong: 20.62% Q2) There are two classrooms, A and B. If 7 students are shifted from Ato B, then B will have twice the number of students as A. If 3 students are sent from B to A, then both the classrooms will have the same number of students. The positive difference between the number of students in the two classrooms is: A) 6 B) 5 C) S D) 7 Correct Ans: A 27/11/2024 Right: 16.14% Wrong: 15.50% Q3) A 3-digit number is such that its units' digit, tens' digit and hundreds' digit are in the ratio 2 : 3 : 4. The sum of this number and the number obtained by reversing its digits is 1332. Find the positive difference between the 3-digit number and the number formed by reversing its digit. A) 594 B) 323 C) 396 D) 414 CorrectAns: C 25/11/2024 Right: 16.85% Wrong: 10.08% Q4) Amita is 2 years older than her friend Amrita. Amita's father is twice as old as Amita, and Amrita is twice as old as her sister. The ages ofAmita's father and Amrita's sister differ by 43 years. The sum of the ages (in years) of Amita and Amrita is: A) 54 B) 50 C) 64 D) 6S Correct Ans: A 26/11/2024 Right: 18.46% Wrong: 9.49% Q5) In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Which numbers should replace X and Y so that the pattern followed by the two numbers on the left side of :: is the same as that on the right side of (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding/subtractin$multiplying etc. to 13 can be performed. Breaking down 13 into I and 3 and then pelforming mathematical operations on I and 3 is not allowed.) X: 529 21 : Y A) 14, Y = 529 B) X= 12, Y = 729 c) X= D) IS, Y =676 CorrectAns:D 25/11/2024 Right: 21.36% Wrong: 12.04% 06) ThiLteen years ago, Manorama's age was — of that of her sister. The ratio of Manorama's and her sister's present ages is 3 : 4. What is the sum of their present ages? A) 36 years B) 39 years C) 4S years D) 42 years Correct Ans: B 29/11/2024 Right: 22.51% Q7) Amita is 2 years elder than her friend Amrita. Amita's father is twice as old as Amita, and Amrita is twice as old as her sister. The ages of Amita's father and Amrita's sister differ by 43 years. The difference between the ages of Amita and Amrita is: A) 2 B) 4 C) 1 D) 3 Correct Ans: A 27/11/2024 Right: 26.67% Wrong: 31.87% Wrong: 9.15% Q8) A 3-digit number is such that the units' digit, the tens' digit and the hundreds' digit are in the ratio I : 2 : 3. The sum of this number and the number obtained by writing its digits in reverse order is 1332. Find the number. < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Ratio and Proportion
+Q1)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 4.24% Wrong: 20.62%
+Q2)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 16.14% Wrong: 15.50%
+Q3)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 16.85% Wrong: 10.08%
+Q4)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 18.46% Wrong: 9.49%
+Q5)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 21.36% Wrong: 12.04%
+Q6)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 22.51% Wrong: 31.87%
+Q7)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 26.67% Wrong: 9.15%
+Q8)
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 32
+
+### OCR text
+
+Gagan Pratap Maths A) 123 B) 246 C) 963 D) 414 Correct Ans: C 27/11/2024 Right: 37.71% Wrong: 17.41% Q9) A textbook has a total of 662 pages. It is divided into two pans. The second pan of the book has 52 pages less than the fint part. How many pages are there in the first pan of the book? A) 324 B) 305 C) 372 D) 357 Correct Ans: D 26/11/2024 Right: 47.10% Wrong: 29.16% QI()) The corresponding sides oftwo similar triangles are in the ratio of2: 3. Ifthe area of the smaller triangle is 36 sq cm, then the area of the bigger triangle is: A) 16sqcm B) 96 sqcm C) Sl sqcm D) 36 sqcm Correct Ans: C 29/11/2024 Right: 49.09% Wrong: 17.13% QI 1) The sum of the ages ofa mother, son and daughter is 70 years. Ifthe mother is tmce as old as her son, and the daughter is 5 years older than her brother, how old is the mother? A) 35 years B) 45 years c) 39 years D) 42 years Correct Ans: C 27/11/2024 Right: 49.82% Wrong: 19.37% QI 2) The ages of Anita and Sunita differ by 30 years. If 5 years ago, Anita was 3 times as old as Sunita, then the present age of Sunita is: A) 30 years B) 25 years c) 20 years D) 35 years Correct Ans: C 28/11/2024 Right: 53.05% Wrong: 21.78% QI 3) The sum of the ages of 5 children bomat intercals of 2 years each is 40 years. What is the age of the eldest child? A) IO years B) 14 years C) 16 years D) 12 years Correct Ans: D 25/11/2024 Right: 59.85% Wrong: 22.08% Q14) If 9.6 : 16.8 :: IS : x, what is the value of x? A) 20.4 B) 25.5 C) 24.8 D) 31.5 D 25/11/2024 Right: 60.52% Wrong: 13.49% QI 5) The present ages of three persons are in ratio 4 : 5 : 6. Eight years ago, the sum of their ages was 51. Find the present age of the eldest person. A) 28 years B) 30 years C) 45 years D) 36 years Correct Ans: B 28/11/2024 016) If 48: x: : x: 75 , and x > 0, then what is the value of x? A) 51 B) 57 C) 63 D) 60 CorrectAns: D 28/11/2024 Right: 60.99% Right: 67.41 % Wrong: 15.11% Wrong: 8.72% QI 7) The angles ofa quadrilateral are in the ratio 2 : 5 : 7 : IO. Find the difference between the greatest and the smallest angles of the quadrilateral. A) 500 B) 1200 C) D) 600 B 26/11/2024 Right: 68.87% Wrong: 11.23% Q18) An amount is divided between two friends in the ratio 4 : 7. Ifthe second part is more than the fust, then the difference in amount between two friends is: A) B) 26 c) D) B 29/11/2024 Q19) If 18 : 24 24 : y, what is the value of y? A) 36 B) IS c) 24 D) 32 Correct Ans: D 25/11/2024 Q20) If 25 : x :: x : 36, and x > 0, then what is the value of x? A) 21 B) 18 C) 27 D) 30 CorrectAns:D 26/11/2024 < o' Download Test RanKlNG App Right: 71.66% Right: 72.28% Right: 74.52% Wrong: 16.48% Wrong: 19.85% Wrong: 8.63%
+
+### Original PDF text layer (cross-check)
+
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 37.71% Wrong: 17.41%
+Q9)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 47.10% Wrong: 29.16%
+Q10)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 49.09% Wrong: 17.13%
+Q11)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 49.82% Wrong: 19.37%
+Q12)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 53.05% Wrong: 21.78%
+Q13)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 59.85% Wrong: 22.08%
+Q14)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 60.52% Wrong: 13.49%
+Q15)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 60.99% Wrong: 15.11%
+Q16)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 67.41% Wrong: 8.72%
+Q17)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 68.87% Wrong: 11.23%
+Q18)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 71.66% Wrong: 16.48%
+Q19)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 72.28% Wrong: 19.85%
+Q20)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 74.52% Wrong: 8.63%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 33
+
+### OCR text
+
+Gagan Pratap Maths 021) 022) 023) Ifa:b=3:2andb: —4:5,thena: If a: = 3: 4 and b: = 2: 3, thena 2. 4 3 x , what is the value of x ? 1.6 C) 3.2 D) 1.2 Correct Ans: B A) 2.4 B) Q24) If a: b = and b : c = 3 : 2, thena Correct Ans: B 29/11/2024 Correct Ans: C 28/11/2024 29/11/2024 Correct Ans: A 26/11/2024 Right: 81.18% Right: 84.83% Right: 84.92% Right: 85.32% Wrong: 12.49% Wrong: 9.43% Wrong: 8.24% Wrong: 8.26% Q25) If three numbers are in the ratio 5 : 6 : 8 and their sum is 3800, then the greatest number will be: A) 1200 B) 2000 C) 1000 D) 1600 CorrectAns: D Q26) If is to be distributed between A and B in the ratio of 7 : A) tl,300 B) 21,600 c) tl,ooo D) tl,900 Correct Ans: C Q27) If x: 7 : 3, then (x —y) : (x ) ? A) 5 : 2 B) 5 : 1 C) 2 : 5 D) 1 : 5 Correct Ans: C 028) Ifä2,400 is to be distributed betweenA and B in the ratio of 7 : A) tl,400 B) 21,600 c) tl,300 D) tl,ooo Correct Ans: A If x: y = 8: : (x + y) = ? 029) •5 B) 5 : 11 C) 5 : 2 D) 11 : 5 Correct Ans: B 030) 3, then (x + y) A) 5 : 11 B) 11 : 5 C) 2 : 5 D) 5 : 2 Correct Ans: B 031) Ifa:b=3:4andb:c=4:1,thena:b:c—? Correct Ans: C 25/11/2024 Right: 85.70% Wrong: 6.99% 5 , then the share of B is: 28/11/2024 Right: 86.53% Wrong: 6.71% 27/11/2024 Right: 86.58% Wrong: 6.45% 5 , then the share ofA is: 27/11/2024 29/11/2024 27/11/2024 26/11/2024 Right: 87.17% Right: 88.67% Right: 89.24% Right: 89.69% Wrong: 6.21% Wrong: 5.40% Wrong: 4.97% Wrong: 5.05% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Q21)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 81.18% Wrong: 12.49%
+Q22)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 84.83% Wrong: 9.43%
+Q23)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 84.92% Wrong: 8.24%
+Q24)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 85.32% Wrong: 8.26%
+Q25)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 85.70% Wrong: 6.99%
+Q26)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 86.53% Wrong: 6.71%
+Q27)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 86.58% Wrong: 6.45%
+Q28)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 87.17% Wrong: 6.21%
+Q29)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 88.67% Wrong: 5.40%
+Q30)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 89.24% Wrong: 4.97%
+Q31)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 89.69% Wrong: 5.05%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 34
+
+### OCR text
+
+Gagan Pratap Maths Mensuration QI) A ball of radius IO cm is taken and a cylindrical hole of radius I em is drilled through the centre. Which of the options listed below is the closest in value to the ratio of the total surface area of the hollowed out ball to the surface area of the original ball? 221 219 1 11 Correct Ans: A A) B) C) D) 5 200 10 200 29/11/2024 Right: 4.04% 02) Water flows into a tank having the dimensions of its base given as 200 m x 150 m through a rectangular pipe having dimensions given as 1.5 m x 1.25m@ 20 kmph. In what time (in minutes) will the water rise by 2 meters? A) 234 B) 96 C) 540 D) 72 CorrectAns: B 25/11/2024 Right: 7.13% 22 Wrong: 16.16% Wrong: 8.92% 03) Ifthe radius ofa sphere is increased by 2 cm, then its surface area increases by 704 cm . Using = — , find the radius 7 of the sphere after the increase. A) 16 cm B) 15 cm c) 14 cm D) 13 cm Correct Ans: B 29/11/2024 Right: 8.77% Wrong: 25.66% Q4) Find the number of bricks, each measuring 24 cm x 12 cm x S cm, required to construct a wall 24 m long, Sm high and 60 cm thick if of the wall is filled with mortar? A) 45000 B) 450000 C) 450 D) 4500 Correct Ans: A 25/11/2024 Right: 12.61% Wrong: 32.95% 05) An order was placed for the supply of a carpet whose breadth was 6 m and whose length were 1.44 times the breadth. What is the cost of a carpet whose length and breadth are 40% more and 25% more respectively than the first carpet. [The cost of a carpet is Rs. 45 per sq m.] A) Rs. 3642.60 B) Rs. 4216.20 C) Rs. 4082.40 D) Rs. 3868.80 Correct Ans: C 29/11/2024 Right: 13.07% Wrong: 8.82% Q6) Given that one cubic cm of marble weighs 25 gms, the weight ofa cuboidal marble block 2S cm in width and 5 cm thick is 112 kg. The length of the block is: A) 26.5cm B) 36cm c) 32 cm D) 37.5 cm C 27/11/2024 Right: 13.53% Wrong: 11.99% Q7) The sum of the length, the breadth and the height ofa cuboid is 3S cmand the length of its diagonal is 22 cm. Find the total surface area of the cuboid. A) 4SO cm2 B) 432 cm2 c) 960 cm2 D) 864 cm 2 Correct Ans: C 26/11/2024 Right: 14.21% Wrong: 17.18% Q8) The volume ofa wall that is 5 times as high as it is broad and S times as long as it is highis 12.8 cubic meters. Find the breadth of the wall. A) 0.004 meter B) 40 cm c) 400 cm D) 0.04 meter Correct Ans: B 29/11/2024 Right: 17.17% Q9) Ifa regular polygon has 35 diagonals, then the sum of its interior angles is: A) 16200 B) 14400 C) 19800 D) Correct Ans: B 26/11/2024 Right: 22.21% Wrong: 17.04% Wrong: 15.39% Q 10) The area of the base ofa rectangular tank is 6500 cm2 and the volume of water contained init is 2.6 cubic meters. The depth of water in the tank is: A) 3.5 m B) 4m C) 5m D) 6m Correct Ans: B < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Mensuration
+Q1)
+Correct Ans: A
+A) B) C) D)
+29/11/2024 Right: 4.04% Wrong: 16.16%
+Q2)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 7.13% Wrong: 8.92%
+Q3)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 8.77% Wrong: 25.66%
+Q4)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 12.61% Wrong: 32.95%
+Q5) An order was placed for the supply of a carpet whose breadth was 6 m and whose length were 1.44  mes the breadth. What
+is the cost of a carpet whose length and breadth are 40% more and 25% more respec vely than the first carpet. [The cost of a
+carpet is Rs. 45 per sq m.]
+A) Rs. 3642.60 B) Rs. 4216.20 C) Rs. 4082.40 D) Rs. 3868.80 Correct Ans: C
+29/11/2024 Right: 13.07% Wrong: 8.82%
+Q6)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 13.53% Wrong: 11.99%
+Q7)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 14.21% Wrong: 17.18%
+Q8)
+A) B) C) D) Correct Ans: B
+29/11/2024 Right: 17.17% Wrong: 17.04%
+Q9)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 22.21% Wrong: 15.39%
+Q10)
+A) B) C) D) Correct Ans: B
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 35
+
+### OCR text
+
+Gagan Pratap Maths 27/11/2024 Right: 25.22% Wrong: 20.56% QI l) The square of the length ofa space diagonal ofa closed cube is 2175 cm . What is the total surface area (in cm2) of the cube? A) 4305 B) 4350 C) 4530 D) 4272 CorrectAns: B 28/11/2024 Right: 26.16% Wrong: 10.19% (212) Ifthe surface area ofa sphere is 2124± cm , then what is the diameter of that sphere? [Use = E] 7 A) 26cm B) 28 cm c) 13 cm D) 14 cm Correct Ans: A 27/11/2024 Right: 27.67% Wrong: 21.26% QI 3) The length, the breadth and the height ofa closed cuboidal box are 2.5 m, 2 m and 90 cm, respectively. What would be the cost of a canvas needed to cover this box completely, if the cost of the canvas is t70 per m2? A) B) C) D) Correct Ans: B 25/11/2024 Right: 27.95% Wrong: 10.15% Q 14) The radius ofa cylinder is 5 cm more than its height. Ifthe curved surface area of the cylinder is 792 cm , then the volume of the cylinder (in cm ), is 22 . [Usen=—] 7 A) 5306 B) 5254 C) 5544 D) 5712 Correct Ans: C 26/11/2024 QI 5) The radius of the base and the height ofa closed cylinder are in the ratio I : 3. Using , 2 if its ctuved surface area is 924 m . A) 1512m2 B) 1S4Sm2 C) 908m2 D) 1232m 2 Correct Ans: D 26/11/2024 Right: 29.88% Wrong: 10.42% find its total surface area Right: 34.74% Wrong: 15.50% Q16) Sameer has a solid metal ball having a diameter of6 cm. He melts it and uses the material for making a solid cylinder. Ifthe diameter of the base of the cylinder is same as that of the ball, what would the height of the cylinder be? A) 4.5 cm B) 4 cm c) 6 cm D) S cm Correct Ans: B 25/11/2024 Right: 35.31% QI 7) Ifthe perimeter of one face ofa cube is 4S cm, then its volume is: A) 729cm3 B) 172Scm3 c) 512cm3 D) 1024cm 3 Correct Ans: B 27/11/2024 Right: 40.43% Q18) Ifthe radius ofa sphere is increased by 50%, find the increase percent in the volume. A) 337.5% B) 325% C) 225% D) 237.5% Correct Ans: D 26/11/2024 Right: 41.29% Wrong: 18.43% Wrong: 36.09% Wrong: 27.52% 019) Using , find the total surface area ofa closed cylinder having a base radius of 70 m and height of 110 m. A) 79,200m2 B) 82,400m2 c) 82,500m2 D) Correct Ans:A 28/11/2024 Right: 47.03% Wrong: 15.34% Q20) Find the total surface area ofa cylinder whose radius of base is 7 cm and height is 12 cm. A) 3037T cm2 B) 266m cm2 c) 208T cm2 D) 280T cm2 Correct Ans: B 26/11/2024 Right: 47.37% Wrong: 17.82% 021) The volume ofa cylinder is 5500 m3. Find its diameter of base if the height of the cylinder is 70 m. [Use = 2?] 7 A) 12m B) S m C) 10m D) 5 m Correct Ans: C 28/11/2024 Right: 50.95% Wrong: 19.13% 022) Find the volume ofa sphere whose diameter is 84 m. [Use it = ] 7 < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+27/11/2024 Right: 25.22% Wrong: 20.56%
+Q11)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 26.16% Wrong: 10.19%
+Q12)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 27.67% Wrong: 21.26%
+Q13)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 27.95% Wrong: 10.15%
+Q14)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 29.88% Wrong: 10.42%
+Q15)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 34.74% Wrong: 15.50%
+Q16)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 35.31% Wrong: 18.43%
+Q17)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 40.43% Wrong: 36.09%
+Q18)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 41.29% Wrong: 27.52%
+Q19)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 47.03% Wrong: 15.34%
+Q20)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 47.37% Wrong: 17.82%
+Q21)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 50.95% Wrong: 19.13%
+Q22)
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 36
+
+### OCR text
+
+Gagan Pratap Maths A) 323,434m3 B) 310,464m3 c) 33S,SOSm3 D) 313,418m 3 Correct Ans: B 28/11/2024 Right: 54.03% Wrong: 12.25% Q23) A solid metallic sphere of radius 12 cm is melted and recast in the form ofsmall spheres of radius 2 cm. How many small spheres are formed? A) 96 B) 216 C) 48 D) 864 B 024) The surface area ofa sphere is 2561 m . Find its diameter. A) 12m B) Sm C) 4m D) 16m CorrectAns:D 26/11/2024 27/11/2024 Right: 56.34% Right: 57.32% Wrong: 12.00% Wrong: 21.66% Q25) Ifthe radius ofa sphere is increased by 50%, find the percent increase in the surface area. A) 125% B) C) 100% D) 11500 CorrectAns:A 27/11/2024 Right: 66.48% Wrong: 12.34% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 54.03% Wrong: 12.25%
+Q23)
+A) B) C) D) Correct Ans: B
+26/11/2024 Right: 56.34% Wrong: 12.00%
+Q24)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 57.32% Wrong: 21.66%
+Q25)
+A) B) C) D) Correct Ans: A
+27/11/2024 Right: 66.48% Wrong: 12.34%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 37
+
+### OCR text
+
+Gagan Pratap Maths Geometry and Co-Ordinate Geometry QI) The length of the base ofa triangle is equal to the perimeter ofa square whose diagonal is 742 cm and the corresponding height of the triangle is equal to the length ofa side of the square whose area is 169 sq cm. The area (in sq cm) of the triangle is: A) 152 B) 182 C) 156 D) 130 CorrectAns: B 02) Triangle ABC is similar to triangle DEF with — A) - B) 16 C) D) 4 Correct Ans: B 4 16 28/11/2024 Right: 28.60% Area (triangle DEF) 1 Find Area (triangle ABC) • 4 27/11/2024 Right: 31.29% Q3) Ifa regular polygon has 20 diagonals, then the number of sides of this polygon is: A) 5 B) 6 C) S D) 10 Correct Ans: C 26/11/2024 Right: 31.50% Wrong: 10.72% Wrong: 38.50% Wrong: 28.70% Q4) The internal bisectors of LQ and LR of APQR meet at S. If mLP 0 , then mLQSR is: A) 105.50 B) 102.50 C) 112.50 D) 127.50 Correct Ans: D 27/11/2024 Right: 32.70% Wrong: 17.82% Q5) If, in the quadrilateral JKLM, the measures of the angles J, K, L, and M are in the ratio 2 : 3 : 5 : 6, then the quadrilateral is a: A) Kite B) parallelogram C) trapezium D) square Correct Ans: C 28/11/2024 Right: 32.82% Wrong: 38.56% 06) In two triangles ABC and DEF, if ÄB = ÉF , BC = DÉ and CÄ = DÉ , then: A) AABCæADEF B) ADEF = ABCA c) ABACæAFDE D) TBA = ADFE D 29/11/2024 Right: 33.43% Q7) The area of the largest triangle that can be inscribed in a semi-circle of radius 6 cm is: A) 36cm2 B) 72cm2 c) 38 cm2 D) 76 cm 2 Correct Ans: A 28/11/2024 Right: 35.82% Q8) Find the perimeter ofa rhombus whose diagonals are of lengths 6 cm and S cm. A) 24 cm B) 25 cm c) 20 cm D) 26 cm Correct Ans: C 29/11/2024 Right: 36.09% Q9) In the adjoining figure line I is parallel to linem . What is the value of x + 2y ? A) 3400 B) 2250 C) 2700 D) 3150 Correct Ans: D 25/11/2024 Right: 39.14% Wrong: 22.83% Wrong: 14.53% Wrong: 39.52% Wrong: 25.48% QI()) Two angles are complementmy. The larger angle is 60 less than five times the measure ofthe smaller angle. What is the measure of the larger angle? < o' Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Geometry and Co-Ordinate Geometry
+Q1)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 28.60% Wrong: 10.72%
+Q2)
+Correct Ans: B
+A) B) C) D)
+27/11/2024 Right: 31.29% Wrong: 38.50%
+Q3)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 31.50% Wrong: 28.70%
+Q4)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 32.70% Wrong: 17.82%
+Q5)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 32.82% Wrong: 38.56%
+Q6)
+A) B) C) D) Correct Ans: D
+29/11/2024 Right: 33.43% Wrong: 22.83%
+Q7)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 35.82% Wrong: 14.53%
+Q8)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 36.09% Wrong: 39.52%
+Q9)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 39.14% Wrong: 25.48%
+Q10)
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 38
+
+### OCR text
+
+Gagan Pratap Maths A) 630 B) C) 740 D) 660 Correct Ans: C 26/11/2024 Right: 39.36% Wrong: 16.76% QI 1) The diagonal and one side ofa rectangular plot are 65 m and 63 m, respectively. What is the perimeter of the rectangular plot? A) 158m B) 164m c) 166m D) 156m CorrectAns:A 29/11/2024 Right: 40.72% Q12) When there are two parallel lines cut by a transversal, which of the following is tme? a) Corresponding angles are equal. b) Alternate interior angles are supplementary'. c) Consecutive angles on the same side of the transversal are equal. d) Alternate interior angles are equal. A) Only a B) bandc c) a and d D) Onlyb Correct Ans: C 27/11/2024 Right: 41.69% QI 3) If a regular polygon has 65 diagonals, then the number of sides this polygon has is: A) 12 B) 14 C) 13 D) 10 CorrectAns:C 28/11/2024 Right: 46.84% Wrong: 16.45% Wrong: 22.32% Wrong: 10.28% Q14) Ifthe perimeters of two similar triangles ABC and DEF are 75 cm and 40 cm respectively, and if ÉC is 15 cm, then the length of EF is: A) 6cm B) IO cm c) 12 cm D) 8 cm Correct Ans: D 28/11/2024 Right: 51.30% Wrong: 11.73% QI 5) In a quadrilateral PQRS, if the sum of measures of angles LQ and LS is 1500 while the measures of angles LP and LR are in ratio 4 : 3, then the measure of LR will be: A) 1200 B) 900 C) 2100 D) 1500 Correct Ans: B 25/11/2024 Right: 51.94% Wrong: 12.19% (216) A triangle has sides of length 5 cm, 7 cm and IO cm. Find the area of the triangle (in cm ). A) 2 B) C) 25 D) 350 Correct Ans: A 25/11/2024 Right: 51.97% Wrong: 19.50% QI 7) The sides ofa rectangle are in the ratio S : IO and its perimeter is 90 cm. The area of this rectangle is: A) 550 cm2 B) 450 cm2 c) 520 cm2 D) 500 cm 2 Correct Ans: D 25/11/2024 Right: 53.74% Wrong: 18.52% Q18) If two interior angles on the same side ofa transversal intersecting two parallel lines are in the ratio 2 : 3, then the greater of the two angles is: A) 1080 B) 540 C) 1360 D) 1200 Correct Ans: A 25/11/2024 Right: 56.19% Wrong: 13.87% QI 9) A gardener increases the area of his rectangular garden by increasing its length by and decreasing its breadth by 20%. The area of the new garden is what percentage more than the area of the old garden? 28/11/2024 Right: 68.43% Download Test RanKlNG App Wrong: 13.17%
+
+### Original PDF text layer (cross-check)
+
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 39.36% Wrong: 16.76%
+Q11)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 40.72% Wrong: 16.45%
+Q12)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 41.69% Wrong: 22.32%
+Q13)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 46.84% Wrong: 10.28%
+Q14)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 51.30% Wrong: 11.73%
+Q15)
+A) B) C) D) Correct Ans: B
+25/11/2024 Right: 51.94% Wrong: 12.19%
+Q16)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 51.97% Wrong: 19.50%
+Q17)
+A) B) C) D) Correct Ans: D
+25/11/2024 Right: 53.74% Wrong: 18.52%
+Q18)
+A) B) C) D) Correct Ans: A
+25/11/2024 Right: 56.19% Wrong: 13.87%
+Q19)
+A) B) C) D) Correct Ans: B
+28/11/2024 Right: 68.43% Wrong: 13.17%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 39
+
+### OCR text
+
+Gagan Pratap Maths Algebraic Identites QI) 3 pencils and 5 pens together cost -2101, whereas 5 pencils and 3 pens together cost 01. The cost of 2 pencils and 2 pens together is: A) B) 236 C) D) 232 Correct Ans: C Q2) Simplify the following expression: (a + 2b — c)(b — c) + (a — c)2b+ b2 A) 3b2+3ab-5bc-ac B) 2b2+3ab-4bc+c c) 3ab— 5bc — ac — 2abc D) 3b2 + c2 + 3ab— 5bc— ac Correct Ans: D Q3) Express the expression below as a perfect square: a2+9b2+c2-6ab+6bc-2ac 28/11/2024 26/11/2024 A) (a-3b-2c)2 B) (a+3b+c)2 C) (a-3b-c)2 D) Correct Ans: C Right: 24.98% Wrong: 12.52% 04) A) 05) A) 06) Right: 31.27% Right: 34.43% Right: 41.690/0 The value of M in (p q) is. Correct Ans: B —II C) 6 D) 5 B) 2 Which of the following is obtained by subtracting x —2(x2 —y2) B) —2(x2 + y 2) c) 2(x2+ y2) D) 2(x2 Simplify the following expression: (2z— 5y)2 + (5z+ 2y)2 — 25z2 25/11/2024 25/11/2024 2 from Y2 ¯ y 2) Correct Ans: A 28/11/2024 Right: 43.00% A) 19y2+4z2 B) 19y2-4z2 C) 29y2+4z2 D) 29y2_4z2 Correct Ans: C 25/11/2024 Right: 46.96% 07) Subtract the sum of2x —3y + 7z and 4z -5x from 13x —z . A) 3x+ 3y—3z B) x + 12y— 12z c) 4x+ 7 y D) 16x+ 3y— 12z CorrectAns: D 28/11/2024 Q8) The value of (x — y)(x + y) + (y— + z) + (z —x) (z + x) is: A) x2+y2+z2 B) x+y+z C) 0 D) xy+yz+zx Correct Ans: C 29/11/2024 09) The value of K, satisfying the equation 0 009 0.01 is: A) 0.0009 B) 0.09 C) 0.9 D) 9 Correct Ans: C 28/11/2024 010) Ifx _ 4 , then x2 + A _ ? x2 A) 12 B) IS C) 14 D) 16 Correct Ans: C 27/11/2024 < o' Download Test RanKlNG App Right: 54.15% Right: 62.07% Right: 67.82% Right: 69.18% Wrong: 17.83% Wrong: 30.89% Wrong: 15.25% Wrong: 32.34% Wrong: 11.70% Wrong: 5.85% Wrong: 16.25% Wrong: 22.68% Wrong: 20.36%
+
+### Original PDF text layer (cross-check)
+
+Algebraic Identites
+Q1)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 24.98% Wrong: 12.52%
+Q2)
+A) B) C) D)
+Correct Ans: D
+26/11/2024 Right: 31.27% Wrong: 17.83%
+Q3)
+Correct Ans: C
+A) B) C) D)
+25/11/2024 Right: 34.43% Wrong: 30.89%
+Q4)
+Correct Ans: B
+A) B) C) D)
+25/11/2024 Right: 41.69% Wrong: 15.25%
+Q5)
+A) B) C) D) Correct Ans: A
+28/11/2024 Right: 43.00% Wrong: 32.34%
+Q6)
+Correct Ans: C
+A) B) C) D)
+25/11/2024 Right: 46.96% Wrong: 11.70%
+Q7)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 54.15% Wrong: 5.85%
+Q8)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 62.07% Wrong: 16.25%
+Q9)
+A) B) C) D) Correct Ans: C
+28/11/2024 Right: 67.82% Wrong: 22.68%
+Q10)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 69.18% Wrong: 20.36%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 40
+
+### OCR text
+
+Gagan Pratap Maths 5 , then x2 + A _ ? x2 A) 25 B) 24 C) 23 D) 26 CorrectAns: C 25/11/2024 Right: 69.58% Wrong: 18.36% Q12) What is the productof(x+ a) and (x + b)? A) x2+ (a—b)x + ab B) x2+ (a+b)x- ab c) x2+ (a—b)x- ab D) x2+ (a+b)x + ab Correct Ans: D 27/11/2024 Right: 80.74% Wrong: 8.98% 013) The value ofx2 —5 atx=—l is. —1 D) —4 Correct Ans: D 28/11/2024 Right: 81.95% Wrong: 7.78% Q14) If9 lines ofa print, in a column ofa book, contain 36 words, how many words will a column of 51 lines contain? A) 208 B) 192 C) 196 D) 204 Correct Ans: D 26/11/2024 Right: 83.85% Wrong: 6.55% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+Q11)
+A) B) C) D) Correct Ans: C
+25/11/2024 Right: 69.58% Wrong: 18.36%
+Q12)
+A) B) C) D)
+Correct Ans: D
+27/11/2024 Right: 80.74% Wrong: 8.98%
+Q13)
+A) B) C) D) Correct Ans: D
+28/11/2024 Right: 81.95% Wrong: 7.78%
+Q14)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 83.85% Wrong: 6.55%
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 41
+
+### OCR text
+
+Gagan Pratap Maths Statics QI) For ceftain data, the mode is 24.6 and mean is 20.1. What is the median of that data, using empirical formula? A) 22.2 B) 23.5 C) 24.1 D) 21.6 CorrectAns:D 27/11/2024 Right: 39.48% Wrong: 18.39% Q2) Ifthe mean ofa data is 65 and its mode is 23, then the median using empirical formula is: A) 53 B) 51 C) 52 D) 54 CorrectAns: B 27/11/2024 Right: 42.61% Wrong: 14.18% Q3) For a data, if the mean is 28.5 and the median is 32, then the mode using empirical formula is: A) 41 B) 40 C) 42 D) 39 Correct Ans: D 26/11/2024 Right: 45.93% Q4) Ifthe mean ofa distribution is 8.73 and its median is II, then the mode of the distribution is empirical relation). A) 15.54 B) 19.73 C) 22 D) 17.46 Correct Ans:A 29/11/2024 Q5) Ifthe mode of the following data is 7, then find the value of k. 2, 4, 6, 7, 5, 6, 10, 6, 7, 2k+ 1, 9, 7, 13 A) 3 B) 6 C) 2 D) 4 Correct Ans: A 26/11/2024 Right: 46.09% Right: 49.85% Wrong: 11.03% (using Wrong: 18.28% Wrong: 15.52% Q6) The median of the observations 20, 23, 25, 30, 20, 31, 32, 35, 20, 41, 42, 43, 20, 20 and 20 is: A) 26 B) 25 C) 28 D) 23 CorrectAns: B 27/11/2024 Q7) Find the mean marks of the following distribution. Marks obtained 25 30 35 40 No. of students 5 6 3 1 A) 32 B) 29 C) 30 D) 31 CorrectAns:C 29/11/2024 Q8) Find the median of the data II, 16, 33, 15, 51, 19, 71, 75, 21, 17. A) 20 B) IS C) 24 D) 22 Correct Ans: A 26/11/2024 Q9) The arithmetic mean of the obsewations 3, A) 17 B) 16 C) 14 D) 15 Correct Ans: C QIO) Ifthe mean of 22, 25, 27, 24 and x is 26, then the value of x is: A) 35 B) 2S C) 32 D) 41 CorrectAns:C Right: 55.01% Right: 57.51% Right: 60.25% 6, S, 10, 12, 14, 18, 24 and 31 is: 27/11/2024 Right: 69.77% 29/11/2024 Right: 71.02% Qll) The arithmetic mean of the obsewations 39, 49, 59, 60, 70, SO, 90, 93 and 90 is: A) 79 B) 78 C) 70 D) 76 Correct Ans: C 26/11/2024 Right: 71.590/0 Q12) The median of the observations 4, 14, II, S, 7, S, 9, 12, 4 and 6 is: < o' Download Test RanKlNG App Wrong: 21.200/0 Wrong: 15.59% Wrong: 13.77% Wrong: 14.46% Wrong: 12.59% Wrong: 8.65%
+
+### Original PDF text layer (cross-check)
+
+Statics
+Q1)
+A) B) C) D) Correct Ans: D
+27/11/2024 Right: 39.48% Wrong: 18.39%
+Q2)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 42.61% Wrong: 14.18%
+Q3)
+A) B) C) D) Correct Ans: D
+26/11/2024 Right: 45.93% Wrong: 11.03%
+Q4)
+A) B) C) D) Correct Ans: A
+29/11/2024 Right: 46.09% Wrong: 18.28%
+Q5)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 49.85% Wrong: 15.52%
+Q6)
+A) B) C) D) Correct Ans: B
+27/11/2024 Right: 55.01% Wrong: 21.20%
+Q7)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 57.51% Wrong: 15.59%
+Q8)
+A) B) C) D) Correct Ans: A
+26/11/2024 Right: 60.25% Wrong: 13.77%
+Q9)
+A) B) C) D) Correct Ans: C
+27/11/2024 Right: 69.77% Wrong: 14.46%
+Q10)
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 71.02% Wrong: 12.59%
+Q11)
+A) B) C) D) Correct Ans: C
+26/11/2024 Right: 71.59% Wrong: 8.65%
+Q12)
+Te In YOU
+Test Ranking APP lin
+
+## PDF page 42
+
+### OCR text
+
+Gagan Pratap Maths A) II B) IO C) S D) 9 Correct Ans: C 29/11/2024 Right: 72.26% Wrong: 9.57% Download Test RanKlNG App
+
+### Original PDF text layer (cross-check)
+
+A) B) C) D) Correct Ans: C
+29/11/2024 Right: 72.26% Wrong: 9.57%
+Te In YOU
+Test Ranking APP lin
